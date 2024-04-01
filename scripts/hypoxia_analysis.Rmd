@@ -1,0 +1,312 @@
+---
+title: "Hypoxia RNAseq Analysis"
+output:
+  pdf_document: default
+  html_document: default
+date: "2024-03-24"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+```{r}
+fpkm_data <-  read.delim(file.choose())
+
+```
+
+```{r}
+head(fpkm_data)
+```
+```{r}
+numeric_cols <- sapply(fpkm_data, is.numeric)
+
+fpkm_data[numeric_cols] <- log2(fpkm_data[numeric_cols] + 0.1)
+
+```
+
+```{r}
+head(fpkm_data)
+```
+```{r}
+library(ggplot2)
+
+```
+```{r}
+
+fpkm_data$mean_log_fpkm <- rowMeans(fpkm_data[,-1], na.rm = TRUE)
+
+ggplot(fpkm_data, aes(x = mean_log_fpkm)) +
+  geom_histogram(binwidth = 0.5, fill = "blue", color = "black") +
+  theme_minimal() +
+  labs(title = "Histogram of Mean Log-transformed FPKM Values",
+       x = "Mean Log2(FPKM + 1)",
+       y = "Frequency of Genes")
+
+```
+
+```{r}
+threshold <- 0.5
+
+filtered_fpkm_data <- fpkm_data[fpkm_data$mean_log_fpkm > threshold, ]
+
+head(filtered_fpkm_data)
+
+```
+
+
+
+```{r}
+explained_variance <- pca_day_6$sdev ^ 2 / sum(pca_day_6$sdev ^ 2)
+plot(explained_variance, xlab = "Principal Component", ylab = "Proportion of Variance Explained",
+     type = 'b', pch = 19)
+```
+
+
+```{r}
+dim(filtered_fpkm_data)
+```
+
+
+
+```{r}
+
+gene_names <- filtered_fpkm_data[, 1] 
+
+day_6_columns <- grep("6d", names(filtered_fpkm_data))
+
+day_6_data_with_genes <- filtered_fpkm_data[, c(1, day_6_columns)]
+
+row.names(day_6_data_with_genes) <- gene_names
+
+day_6_data <- day_6_data_with_genes[, -1]
+
+head(day_6_data)
+
+
+```
+
+```{r}
+dim(day_6_data)
+```
+
+
+
+```{r}
+day_6_data
+```
+```{r}
+library(ggplot2)
+library(dplyr)
+
+
+pca_results <- prcomp(t(day_6_data), center = TRUE, scale. = TRUE)
+
+pca_scores <- as.data.frame(pca_results$x)
+oxygen_status <- gsub("X6d_(.*)_rep.*", "\\1", names(day_6_data))
+replicate <- gsub("X6d_.*_rep(\\d)", "\\1", names(day_6_data))
+
+pca_data <- cbind(pca_scores, Oxygen_Status = oxygen_status, Replicate = replicate)
+
+pca_data$Oxygen_Status <- factor(pca_data$Oxygen_Status, levels = c("21_O2", "5_O2", "1_O2"))
+
+ggplot(pca_data, aes(x = PC1, y = PC2, color = Oxygen_Status, shape = Replicate)) +
+  geom_point(size = 3) +
+  theme_minimal() +
+  labs(title = "PCA of Day 6 Samples",
+       x = "Principal Component 1 (PC1)",
+       y = "Principal Component 2 (PC2)",
+       color = "Oxygen Status",
+       shape = "Replicate")
+
+
+```
+
+
+
+
+
+
+
+```{r}
+day_6_data
+```
+
+```{r}
+samples <- c("X6d_21_O2_rep1", "X6d_21_O2_rep2", "X6d_21_O2_rep3", 
+             "X6d_5_O2_rep1", "X6d_5_O2_rep2", "X6d_5_O2_rep3", 
+             "X6d_1_O2_rep1", "X6d_1_O2_rep2", "X6d_1_O2_rep3")
+
+conditions <- factor(c(rep("Normoxia", 3), rep("ModerateHypoxia", 3), rep("StrongHypoxia", 3)))
+
+# design matrix
+design <- model.matrix(~0 + conditions)
+
+colnames(design) <- levels(conditions)
+
+design
+```
+```{r}
+library(limma)
+
+
+fit <- lmFit(day_6_data, design)
+contrast.matrix <- makeContrasts(ModerateVsNormoxia = ModerateHypoxia - Normoxia,
+                                 StrongVsNormoxia = StrongHypoxia - Normoxia,
+                                 levels = design)
+fit2 <- contrasts.fit(fit, contrast.matrix)
+fit2 <- eBayes(fit2,trend = TRUE,robust=TRUE)
+
+top_moderate<-topTable(fit2, coef="ModerateVsNormoxia", number=25)
+
+top_strong<-topTable(fit2, coef="StrongVsNormoxia", number=25)
+```
+
+
+```{r}
+top_moderate
+```
+```{r}
+top_strong
+```
+```{r}
+top<-union(rownames(top_moderate),rownames(top_strong))
+```
+
+```{r}
+top
+```
+
+
+
+```{r}
+hif1a_target<-read.csv(file.choose())
+
+```
+
+```{r}
+(hif1a_target)
+
+
+```
+
+```{r}
+hifa_genes<-hif1a_target$Gene.symbol
+```
+```{r}
+top
+```
+
+```{r}
+common_found<-intersect(top,hifa_genes)
+```
+
+```{r}
+common_found
+```
+
+```{r}
+
+
+
+N <- nrow(filtered_fpkm_data)  # Total number of genes analyzed
+K <- length(hifa_genes)  # Number of HIF-1α target genes
+M <- length(top)  # Number of top differentially expressed genes
+x <- length(common_found)  # Overlap between top genes and HIF-1α targets
+
+p_value <- phyper(x-1, K, N-K, M, lower.tail=FALSE)
+
+print(p_value)
+
+
+```
+```{r}
+mito<-read.csv(file.choose())
+```
+
+```{r}
+mito
+```
+```{r}
+mito_gene<-mito$Symbol
+```
+
+```{r}
+length(mito_gene)
+```
+```{r}
+mito_found<-intersect(top,mito_gene)
+
+```
+
+```{r}
+mito_found
+```
+```{r}
+
+combined_df <- (rbind(top_moderate, top_strong))
+
+combined_df$gene<-rownames(combined_df)
+
+```
+
+```{r}
+combined_df
+```
+```{r}
+subset_df <- combined_df[combined_df$gene %in% mito_found, ]
+
+```
+
+```{r}
+subset_df
+#upregulated since logFC values are positive
+```
+```{r}
+install.packages("pheatmap")
+```
+
+
+
+```{r}
+filtered_fpkm_data <- filtered_fpkm_data[,-ncol(filtered_fpkm_data)]
+dim(filtered_fpkm_data)
+```
+
+
+
+```{r}
+day_3_1o2_cols <- grep("3d_1_O2", names(filtered_fpkm_data))
+
+# Calculate mean expression for Day 3, 1% O2 for each gene
+day_3_1o2_mean <- rowMeans(filtered_fpkm_data[, day_3_1o2_cols])
+
+ordered_fpkm_data <- filtered_fpkm_data[order(day_3_1o2_mean, decreasing = TRUE), ]
+
+```
+
+```{r}
+ordered_fpkm_data<-ordered_fpkm_data[,-1]
+```
+
+```{r}
+names(ordered_fpkm_data)
+```
+
+
+```{r}
+if (!requireNamespace("pheatmap", quietly = TRUE)) install.packages("pheatmap")
+library(pheatmap)
+
+pheatmap(ordered_fpkm_data,
+         cluster_rows=FALSE,
+         cluster_cols=FALSE,
+         scale = "row",  # Ensures row-wise normalization
+         color = colorRampPalette(c("blue", "white", "red"))(255),  # Color gradient from low to high
+         show_rownames = FALSE,
+         show_colnames = TRUE,
+         main = "Heatmap of Gene Expression Across Time Points and Conditions")
+
+```
+

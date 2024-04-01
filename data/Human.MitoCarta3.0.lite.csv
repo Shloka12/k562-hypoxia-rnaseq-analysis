@@ -1,0 +1,1123 @@
+HumanGeneID,Symbol,Description,MitoCarta3.0_MitoPathways
+1537,CYC1,cytochrome c1,OXPHOS > Complex III > CIII subunits | Metabolism > Metals and cofactors > Heme-containing proteins | Metabolism > Electron carriers > Cytochromes | OXPHOS > OXPHOS subunits
+6390,SDHB,succinate dehydrogenase complex iron sulfur subunit B,OXPHOS > Complex II > CII subunits | Metabolism > Carbohydrate metabolism > TCA cycle | Metabolism > Metals and cofactors > Fe-S-containing proteins | OXPHOS > OXPHOS subunits
+10229,COQ7,"coenzyme Q7, hydroxylase",Metabolism > Metals and cofactors > Coenzyme Q metabolism
+6389,SDHA,succinate dehydrogenase complex flavoprotein subunit A,OXPHOS > Complex II > CII subunits | Metabolism > Carbohydrate metabolism > TCA cycle | OXPHOS > OXPHOS subunits
+7384,UQCRC1,ubiquinol-cytochrome c reductase core protein 1,"Protein import, sorting and homeostasis > Protein import and sorting > Preprotein cleavage | OXPHOS > Complex III > CIII subunits | OXPHOS > OXPHOS subunits"
+84274,COQ5,"coenzyme Q5, methyltransferase",Metabolism > Metals and cofactors > Coenzyme Q metabolism
+5160,PDHA1,pyruvate dehydrogenase E1 subunit alpha 1,Metabolism > Carbohydrate metabolism > Pyruvate metabolism
+57017,COQ9,coenzyme Q9,Metabolism > Metals and cofactors > Coenzyme Q metabolism
+6182,MRPL12,mitochondrial ribosomal protein L12,Mitochondrial central dogma > mtRNA metabolism > Transcription | Mitochondrial central dogma > Translation > Mitochondrial ribosome
+513,ATP5F1D,ATP synthase F1 subunit delta,OXPHOS > Complex V > CV subunits | OXPHOS > OXPHOS subunits
+9377,COX5A,cytochrome c oxidase subunit 5A,OXPHOS > Complex IV > CIV subunits | OXPHOS > OXPHOS subunits
+122961,ISCA2,iron-sulfur cluster assembly 2,Metabolism > Metals and cofactors > Fe-S cluster biosynthesis | Metabolism > Metals and cofactors > Fe-S-containing proteins
+9512,PMPCB,"peptidase, mitochondrial processing subunit beta","Protein import, sorting and homeostasis > Protein import and sorting > Preprotein cleavage | Protein import, sorting and homeostasis > Protein homeostasis > Proteases"
+7386,UQCRFS1,"ubiquinol-cytochrome c reductase, Rieske iron-sulfur polypeptide 1",OXPHOS > Complex III > CIII subunits | Metabolism > Metals and cofactors > Fe-S-containing proteins | OXPHOS > OXPHOS subunits
+498,ATP5F1A,ATP synthase F1 subunit alpha,OXPHOS > Complex V > CV subunits | OXPHOS > OXPHOS subunits
+4967,OGDH,oxoglutarate dehydrogenase,Metabolism > Carbohydrate metabolism > TCA cycle
+5162,PDHB,pyruvate dehydrogenase E1 subunit beta,Metabolism > Carbohydrate metabolism > Pyruvate metabolism
+7385,UQCRC2,ubiquinol-cytochrome c reductase core protein 2,"Protein import, sorting and homeostasis > Protein import and sorting > Preprotein cleavage | OXPHOS > Complex III > CIII subunits | OXPHOS > OXPHOS subunits"
+6392,SDHD,succinate dehydrogenase complex subunit D,OXPHOS > Complex II > CII subunits | Metabolism > Carbohydrate metabolism > TCA cycle | Metabolism > Metals and cofactors > Heme-containing proteins | OXPHOS > OXPHOS subunits
+60488,MRPS35,mitochondrial ribosomal protein S35,Mitochondrial central dogma > Translation > Mitochondrial ribosome
+27089,UQCRQ,ubiquinol-cytochrome c reductase complex III subunit VII,OXPHOS > Complex III > CIII subunits | OXPHOS > OXPHOS subunits
+116540,MRPL53,mitochondrial ribosomal protein L53,Mitochondrial central dogma > Translation > Mitochondrial ribosome
+1629,DBT,dihydrolipoamide branched chain transacylase E2,Metabolism > Amino acid metabolism > Branched-chain amino acid metabolism | Metabolism > Amino acid metabolism > Branched-chain amino acid dehydrogenase complex
+5166,PDK4,pyruvate dehydrogenase kinase 4,Metabolism > Carbohydrate metabolism > Pyruvate metabolism
+4191,MDH2,malate dehydrogenase 2,Metabolism > Carbohydrate metabolism > Gluconeogenesis | Metabolism > Carbohydrate metabolism > Malate-aspartate shuttle | Metabolism > Carbohydrate metabolism > TCA cycle
+23107,MRPS27,mitochondrial ribosomal protein S27,Mitochondrial central dogma > Translation > Mitochondrial ribosome
+1431,CS,citrate synthase,Metabolism > Carbohydrate metabolism > TCA cycle
+80273,GRPEL1,"GrpE like 1, mitochondrial","Protein import, sorting and homeostasis > Protein import and sorting > Import motor | Metabolism > Metals and cofactors > Fe-S cluster biosynthesis"
+1737,DLAT,dihydrolipoamide S-acetyltransferase,Metabolism > Carbohydrate metabolism > Pyruvate metabolism
+10128,LRPPRC,leucine rich pentatricopeptide repeat containing,Mitochondrial central dogma > mtRNA metabolism > mtRNA stability and decay | Mitochondrial central dogma > Translation
+1743,DLST,dihydrolipoamide S-succinyltransferase,Metabolism > Carbohydrate metabolism > TCA cycle | Metabolism > Amino acid metabolism > Lysine metabolism
+8050,PDHX,pyruvate dehydrogenase complex component X,Metabolism > Carbohydrate metabolism > Pyruvate metabolism
+85476,GFM1,G elongation factor mitochondrial 1,Mitochondrial central dogma > Translation > Translation factors
+25874,MPC2,mitochondrial pyruvate carrier 2,Metabolism > Carbohydrate metabolism > Gluconeogenesis | Metabolism > Carbohydrate metabolism > Pyruvate metabolism | Metabolism > Carbohydrate metabolism > TCA-associated | Small molecule transport
+4719,NDUFS1,NADH:ubiquinone oxidoreductase core subunit S1,OXPHOS > Complex I > CI subunits | Metabolism > Metals and cofactors > Fe-S-containing proteins | OXPHOS > OXPHOS subunits
+26589,MRPL46,mitochondrial ribosomal protein L46,Mitochondrial central dogma > Translation > Mitochondrial ribosome
+514,ATP5F1E,ATP synthase F1 subunit epsilon,OXPHOS > Complex V > CV subunits | OXPHOS > OXPHOS subunits
+5250,SLC25A3,solute carrier family 25 member 3,Metabolism > Metals and cofactors > Copper metabolism | Signaling > Calcium homeostasis > Calcium cycle | Small molecule transport > SLC25A family
+51649,MRPS23,mitochondrial ribosomal protein S23,Mitochondrial central dogma > Translation > Mitochondrial ribosome
+2271,FH,fumarate hydratase,Metabolism > Carbohydrate metabolism > TCA cycle
+23203,PMPCA,"peptidase, mitochondrial processing subunit alpha","Protein import, sorting and homeostasis > Protein import and sorting > Preprotein cleavage | Protein import, sorting and homeostasis > Protein homeostasis > Proteases"
+506,ATP5F1B,ATP synthase F1 subunit beta,OXPHOS > Complex V > CV subunits | OXPHOS > OXPHOS subunits
+135154,SDHAF4,succinate dehydrogenase complex assembly factor 4,OXPHOS > Complex II > CII assembly factors | OXPHOS > OXPHOS assembly factors
+29796,UQCR10,"ubiquinol-cytochrome c reductase, complex III subunit X",OXPHOS > Complex III > CIII subunits | OXPHOS > OXPHOS subunits
+81689,ISCA1,iron-sulfur cluster assembly 1,Metabolism > Metals and cofactors > Fe-S cluster biosynthesis | Metabolism > Metals and cofactors > Fe-S-containing proteins
+8803,SUCLA2,succinate-CoA ligase ADP-forming subunit beta,Metabolism > Carbohydrate metabolism > TCA cycle | Metabolism > Carbohydrate metabolism > Itaconate metabolism | Metabolism > Nucleotide metabolism > Nucleotide synthesis and processing
+51805,COQ3,"coenzyme Q3, methyltransferase",Metabolism > Metals and cofactors > Coenzyme Q metabolism
+55699,IARS2,"isoleucyl-tRNA synthetase 2, mitochondrial",Mitochondrial central dogma > Translation > mt-tRNA synthetases
+64960,MRPS15,mitochondrial ribosomal protein S15,Mitochondrial central dogma > Translation > Mitochondrial ribosome
+3419,IDH3A,isocitrate dehydrogenase (NAD(+)) 3 catalytic subunit alpha,Metabolism > Carbohydrate metabolism > TCA cycle
+1353,COX11,cytochrome c oxidase copper chaperone COX11,OXPHOS > Complex IV > CIV assembly factors | Metabolism > Metals and cofactors > Copper metabolism | OXPHOS > OXPHOS assembly factors
+2110,ETFDH,electron transfer flavoprotein dehydrogenase,"Metabolism > Lipid metabolism > Fatty acid oxidation | Metabolism > Amino acid metabolism > Branched-chain amino acid metabolism | Metabolism > Amino acid metabolism > Lysine metabolism | Metabolism > Amino acid metabolism > Glycine metabolism | Metabolism > Metals and cofactors > Fe-S-containing proteins | Metabolism > Vitamin metabolism > Choline and betaine metabolism | Metabolism > Electron carriers > Q-linked reactions, other"
+26519,TIMM10,translocase of inner mitochondrial membrane 10,"Protein import, sorting and homeostasis > Protein homeostasis > Chaperones | Protein import, sorting and homeostasis > Protein import and sorting"
+64981,MRPL34,mitochondrial ribosomal protein L34,Mitochondrial central dogma > Translation > Mitochondrial ribosome
+51069,MRPL2,mitochondrial ribosomal protein L2,Mitochondrial central dogma > Translation > Mitochondrial ribosome
+593,BCKDHA,branched chain keto acid dehydrogenase E1 subunit alpha,Metabolism > Amino acid metabolism > Branched-chain amino acid metabolism | Metabolism > Amino acid metabolism > Branched-chain amino acid dehydrogenase complex
+7388,UQCRH,ubiquinol-cytochrome c reductase hinge protein,OXPHOS > Complex III > CIII subunits | OXPHOS > OXPHOS subunits
+192286,HIGD2A,HIG1 hypoxia inducible domain family member 2A,OXPHOS > OXPHOS assembly factors | OXPHOS > Respirasome assembly
+539,ATP5PO,ATP synthase peripheral stalk subunit OSCP,OXPHOS > Complex V > CV subunits | OXPHOS > OXPHOS subunits
+1892,ECHS1,"enoyl-CoA hydratase, short chain 1",Metabolism > Lipid metabolism > Fatty acid oxidation | Metabolism > Amino acid metabolism > Branched-chain amino acid metabolism | Metabolism > Amino acid metabolism > Lysine metabolism
+25875,LETMD1,LETM1 domain containing 1,Small molecule transport
+1337,COX6A1,cytochrome c oxidase subunit 6A1,OXPHOS > Complex IV > CIV subunits | OXPHOS > OXPHOS subunits
+1355,COX15,cytochrome c oxidase assembly homolog COX15,OXPHOS > Complex IV > CIV assembly factors | Metabolism > Metals and cofactors > Heme synthesis and processing | OXPHOS > OXPHOS assembly factors
+10939,AFG3L2,AFG3 like matrix AAA peptidase subunit 2,"Protein import, sorting and homeostasis > Protein homeostasis > Proteases"
+3030,HADHA,hydroxyacyl-CoA dehydrogenase trifunctional multienzyme complex subunit alpha,Metabolism > Lipid metabolism > Fatty acid oxidation | Metabolism > Lipid metabolism > Cardiolipin synthesis | Metabolism > Amino acid metabolism > Branched-chain amino acid metabolism
+2108,ETFA,electron transfer flavoprotein subunit alpha,"Metabolism > Lipid metabolism > Fatty acid oxidation | Metabolism > Amino acid metabolism > Branched-chain amino acid metabolism | Metabolism > Amino acid metabolism > Lysine metabolism | Metabolism > Amino acid metabolism > Glycine metabolism | Metabolism > Vitamin metabolism > Choline and betaine metabolism | Metabolism > Electron carriers > Q-linked reactions, other"
+374291,NDUFS7,NADH:ubiquinone oxidoreductase core subunit S7,OXPHOS > Complex I > CI subunits | Metabolism > Metals and cofactors > Fe-S-containing proteins | OXPHOS > OXPHOS subunits
+1376,CPT2,carnitine palmitoyltransferase 2,Metabolism > Lipid metabolism > Fatty acid oxidation | Metabolism > Metals and cofactors > Carnitine synthesis and transport | Metabolism > Metals and cofactors > Carnitine shuttle
+594,BCKDHB,branched chain keto acid dehydrogenase E1 subunit beta,Metabolism > Amino acid metabolism > Branched-chain amino acid metabolism | Metabolism > Amino acid metabolism > Branched-chain amino acid dehydrogenase complex
+3420,IDH3B,isocitrate dehydrogenase (NAD(+)) 3 non-catalytic subunit beta,Metabolism > Carbohydrate metabolism > TCA cycle
+23395,LARS2,"leucyl-tRNA synthetase 2, mitochondrial",Mitochondrial central dogma > Translation > mt-tRNA synthetases
+35,ACADS,acyl-CoA dehydrogenase short chain,Metabolism > Lipid metabolism > Fatty acid oxidation
+3954,LETM1,leucine zipper and EF-hand containing transmembrane protein 1,Signaling > Calcium homeostasis > Calcium cycle
+521,ATP5ME,ATP synthase membrane subunit e,OXPHOS > Complex V > CV subunits | OXPHOS > OXPHOS subunits | Mitochondrial dynamics and surveillance > Cristae formation
+4976,OPA1,OPA1 mitochondrial dynamin like GTPase,Mitochondrial dynamics and surveillance > Fusion | Mitochondrial dynamics and surveillance > Cristae formation
+549,AUH,AU RNA binding methylglutaconyl-CoA hydratase,Metabolism > Carbohydrate metabolism > Itaconate metabolism | Metabolism > Amino acid metabolism > Branched-chain amino acid metabolism
+8802,SUCLG1,succinate-CoA ligase GDP/ADP-forming subunit alpha,Metabolism > Carbohydrate metabolism > TCA cycle | Metabolism > Carbohydrate metabolism > Itaconate metabolism | Metabolism > Nucleotide metabolism > Nucleotide synthesis and processing
+4729,NDUFV2,NADH:ubiquinone oxidoreductase core subunit V2,OXPHOS > Complex I > CI subunits | Metabolism > Metals and cofactors > Fe-S-containing proteins | OXPHOS > OXPHOS subunits
+51004,COQ6,"coenzyme Q6, monooxygenase",Metabolism > Metals and cofactors > Coenzyme Q metabolism
+84545,MRPL43,mitochondrial ribosomal protein L43,Mitochondrial central dogma > Translation > Mitochondrial ribosome
+83451,ABHD11,abhydrolase domain containing 11,Metabolism > Carbohydrate metabolism > TCA-associated
+522,ATP5PF,ATP synthase peripheral stalk subunit F6,OXPHOS > Complex V > CV subunits | OXPHOS > OXPHOS subunits
+4714,NDUFB8,NADH:ubiquinone oxidoreductase subunit B8,OXPHOS > Complex I > CI subunits | OXPHOS > OXPHOS subunits
+9361,LONP1,"lon peptidase 1, mitochondrial","Protein import, sorting and homeostasis > Protein homeostasis > Proteases"
+1738,DLD,dihydrolipoamide dehydrogenase,Metabolism > Carbohydrate metabolism > Pyruvate metabolism | Metabolism > Carbohydrate metabolism > TCA cycle | Metabolism > Amino acid metabolism > Branched-chain amino acid metabolism | Metabolism > Amino acid metabolism > Branched-chain amino acid dehydrogenase complex | Metabolism > Amino acid metabolism > Lysine metabolism | Metabolism > Amino acid metabolism > Glycine metabolism | Metabolism > Amino acid metabolism > Glycine cleavage system
+9131,AIFM1,apoptosis inducing factor mitochondria associated 1,"Protein import, sorting and homeostasis > Protein import and sorting > MIA40 | OXPHOS > Complex I > CI assembly factors | OXPHOS > OXPHOS assembly factors | Mitochondrial dynamics and surveillance > Apoptosis"
+79746,ECHDC3,enoyl-CoA hydratase domain containing 3,0
+139322,APOOL,apolipoprotein O like,Mitochondrial dynamics and surveillance > Cristae formation > MICOS complex
+124995,MRPL10,mitochondrial ribosomal protein L10,Mitochondrial central dogma > Translation > Mitochondrial ribosome
+92399,MRRF,mitochondrial ribosome recycling factor,Mitochondrial central dogma > Translation > Translation factors
+4728,NDUFS8,NADH:ubiquinone oxidoreductase core subunit S8,OXPHOS > Complex I > CI subunits | Metabolism > Metals and cofactors > Fe-S-containing proteins | OXPHOS > OXPHOS subunits
+34,ACADM,acyl-CoA dehydrogenase medium chain,Metabolism > Lipid metabolism > Fatty acid oxidation
+10989,IMMT,inner membrane mitochondrial protein,Mitochondrial dynamics and surveillance > Cristae formation > MICOS complex
+26520,TIMM9,translocase of inner mitochondrial membrane 9,"Protein import, sorting and homeostasis > Protein homeostasis > Chaperones | Protein import, sorting and homeostasis > Protein import and sorting"
+291,SLC25A4,solute carrier family 25 member 4,Metabolism > Nucleotide metabolism > Nucleotide import | Signaling > Calcium homeostasis > Mitochondrial permeability transition pore | Small molecule transport > SLC25A family
+25813,SAMM50,SAMM50 sorting and assembly machinery component,"Protein import, sorting and homeostasis > Protein import and sorting > SAM | Mitochondrial dynamics and surveillance > Intramitochondrial membrane interactions"
+4720,NDUFS2,NADH:ubiquinone oxidoreductase core subunit S2,OXPHOS > Complex I > CI subunits | Metabolism > Metals and cofactors > Fe-S-containing proteins | OXPHOS > OXPHOS subunits
+4723,NDUFV1,NADH:ubiquinone oxidoreductase core subunit V1,OXPHOS > Complex I > CI subunits | Metabolism > Metals and cofactors > Fe-S-containing proteins | OXPHOS > OXPHOS subunits
+50,ACO2,aconitase 2,Metabolism > Carbohydrate metabolism > TCA cycle | Metabolism > Metals and cofactors > Fe-S-containing proteins
+6832,SUPV3L1,Suv3 like RNA helicase,Mitochondrial central dogma > mtRNA metabolism > mtRNA granules | Mitochondrial central dogma > mtRNA metabolism > mtRNA stability and decay
+2235,FECH,ferrochelatase,Metabolism > Metals and cofactors > Heme synthesis and processing | Metabolism > Metals and cofactors > Fe-S-containing proteins
+4528,MTIF2,mitochondrial translational initiation factor 2,Mitochondrial central dogma > Translation > Translation factors
+5245,PHB,prohibitin,"Protein import, sorting and homeostasis > Protein homeostasis > Chaperones"
+26275,HIBCH,3-hydroxyisobutyryl-CoA hydrolase,Metabolism > Amino acid metabolism > Branched-chain amino acid metabolism
+51116,MRPS2,mitochondrial ribosomal protein S2,Mitochondrial central dogma > Translation > Mitochondrial ribosome
+3313,HSPA9,heat shock protein family A (Hsp70) member 9,Metabolism > Metals and cofactors > Fe-S cluster biosynthesis
+6834,SURF1,SURF1 cytochrome c oxidase assembly factor,OXPHOS > Complex IV > CIV assembly factors | OXPHOS > OXPHOS assembly factors
+10935,PRDX3,peroxiredoxin 3,Metabolism > Detoxification > ROS and glutathione metabolism
+27069,GHITM,growth hormone inducible transmembrane protein,Mitochondrial dynamics and surveillance > Apoptosis
+60558,GUF1,"GUF1 homolog, GTPase",Mitochondrial central dogma > Translation
+26517,TIMM13,translocase of inner mitochondrial membrane 13,"Protein import, sorting and homeostasis > Protein homeostasis > Chaperones | Protein import, sorting and homeostasis > Protein import and sorting"
+57128,LYRM4,LYR motif containing 4,Metabolism > Metals and cofactors > Fe-S cluster biosynthesis
+54948,MRPL16,mitochondrial ribosomal protein L16,Mitochondrial central dogma > Translation > Mitochondrial ribosome
+64976,MRPL40,mitochondrial ribosomal protein L40,Mitochondrial central dogma > Translation > Mitochondrial ribosome
+3421,IDH3G,isocitrate dehydrogenase (NAD(+)) 3 non-catalytic subunit gamma,Metabolism > Carbohydrate metabolism > TCA cycle
+6391,SDHC,succinate dehydrogenase complex subunit C,OXPHOS > Complex II > CII subunits | Metabolism > Carbohydrate metabolism > TCA cycle | Metabolism > Metals and cofactors > Heme-containing proteins | OXPHOS > OXPHOS subunits
+4711,NDUFB5,NADH:ubiquinone oxidoreductase subunit B5,OXPHOS > Complex I > CI subunits | OXPHOS > OXPHOS subunits
+54949,SDHAF2,succinate dehydrogenase complex assembly factor 2,OXPHOS > Complex II > CII assembly factors | OXPHOS > OXPHOS assembly factors
+93058,COQ10A,coenzyme Q10A,Metabolism > Metals and cofactors > Coenzyme Q metabolism
+8209,GATD3A,glutamine amidotransferase like class 1 domain containing 3A,0
+25828,TXN2,thioredoxin 2,Metabolism > Vitamin metabolism > Vitamin C metabolism | Metabolism > Detoxification > ROS and glutathione metabolism
+55168,MRPS18A,mitochondrial ribosomal protein S18A,Mitochondrial central dogma > Translation > Mitochondrial ribosome
+1345,COX6C,cytochrome c oxidase subunit 6C,OXPHOS > Complex IV > CIV subunits | OXPHOS > OXPHOS subunits
+4715,NDUFB9,NADH:ubiquinone oxidoreductase subunit B9,OXPHOS > Complex I > CI subunits | OXPHOS > OXPHOS subunits
+23788,MTCH2,mitochondrial carrier 2,Small molecule transport > SLC25A family | Mitochondrial dynamics and surveillance > Fusion
+4700,NDUFA6,NADH:ubiquinone oxidoreductase subunit A6,OXPHOS > Complex I > CI subunits | OXPHOS > OXPHOS subunits
+788,SLC25A20,solute carrier family 25 member 20,Metabolism > Lipid metabolism > Fatty acid oxidation | Metabolism > Metals and cofactors > Carnitine synthesis and transport | Metabolism > Metals and cofactors > Carnitine shuttle | Small molecule transport > SLC25A family
+65008,MRPL1,mitochondrial ribosomal protein L1,Mitochondrial central dogma > Translation > Mitochondrial ribosome
+10469,TIMM44,translocase of inner mitochondrial membrane 44,"Protein import, sorting and homeostasis > Protein import and sorting > Import motor"
+10063,COX17,cytochrome c oxidase copper chaperone COX17,OXPHOS > Complex IV > CIV assembly factors | Metabolism > Metals and cofactors > Copper metabolism | OXPHOS > OXPHOS assembly factors
+440574,MICOS10,mitochondrial contact site and cristae organizing system subunit 10,Mitochondrial dynamics and surveillance > Cristae formation > MICOS complex
+6648,SOD2,superoxide dismutase 2,Metabolism > Detoxification > ROS and glutathione metabolism
+1340,COX6B1,cytochrome c oxidase subunit 6B1,OXPHOS > Complex IV > CIV subunits | OXPHOS > OXPHOS subunits
+7416,VDAC1,voltage dependent anion channel 1,Signaling > Calcium homeostasis > Mitochondrial permeability transition pore | Mitochondrial dynamics and surveillance > Organelle contact sites | Small molecule transport
+8192,CLPP,caseinolytic mitochondrial matrix peptidase proteolytic subunit,"Protein import, sorting and homeostasis > Protein homeostasis > Proteases"
+3033,HADH,hydroxyacyl-CoA dehydrogenase,Metabolism > Lipid metabolism > Fatty acid oxidation | Metabolism > Amino acid metabolism > Lysine metabolism
+33,ACADL,acyl-CoA dehydrogenase long chain,Metabolism > Lipid metabolism > Fatty acid oxidation
+38,ACAT1,acetyl-CoA acetyltransferase 1,Metabolism > Carbohydrate metabolism > Ketone metabolism | Metabolism > Lipid metabolism > Fatty acid oxidation | Metabolism > Amino acid metabolism > Branched-chain amino acid metabolism | Metabolism > Amino acid metabolism > Lysine metabolism
+115416,MALSU1,mitochondrial assembly of ribosomal large subunit 1,Mitochondrial central dogma > Translation > Mitochondrial ribosome assembly
+10845,CLPX,caseinolytic mitochondrial matrix peptidase chaperone subunit X,"Protein import, sorting and homeostasis > Protein homeostasis > Proteases"
+4724,NDUFS4,NADH:ubiquinone oxidoreductase subunit S4,OXPHOS > Complex I > CI subunits | OXPHOS > OXPHOS subunits
+51073,MRPL4,mitochondrial ribosomal protein L4,Mitochondrial central dogma > Translation > Mitochondrial ribosome
+708,C1QBP,complement C1q binding protein,Signaling > Immune response
+10531,PITRM1,pitrilysin metallopeptidase 1,"Protein import, sorting and homeostasis > Protein homeostasis > Proteases"
+55245,UQCC1,ubiquinol-cytochrome c reductase complex assembly factor 1,OXPHOS > Complex III > CIII assembly factors | OXPHOS > OXPHOS assembly factors
+128308,MRPL55,mitochondrial ribosomal protein L55,Mitochondrial central dogma > Translation > Mitochondrial ribosome
+79922,MRM1,mitochondrial rRNA methyltransferase 1,Mitochondrial central dogma > mtRNA metabolism > mtRNA granules | Mitochondrial central dogma > mtRNA metabolism > mt-rRNA modifications
+51102,MECR,mitochondrial trans-2-enoyl-CoA reductase,Metabolism > Lipid metabolism > Type II fatty acid synthesis
+65080,MRPL44,mitochondrial ribosomal protein L44,Mitochondrial central dogma > Translation > Mitochondrial ribosome
+84263,HSDL2,hydroxysteroid dehydrogenase like 2,0
+63931,MRPS14,mitochondrial ribosomal protein S14,Mitochondrial central dogma > Translation > Mitochondrial ribosome
+11194,ABCB8,ATP binding cassette subfamily B member 8,Small molecule transport > ABC transporters
+91647,ATPAF2,ATP synthase mitochondrial F1 complex assembly factor 2,OXPHOS > Complex V > CV assembly factors | OXPHOS > OXPHOS assembly factors
+4704,NDUFA9,NADH:ubiquinone oxidoreductase subunit A9,OXPHOS > Complex I > CI subunits | OXPHOS > OXPHOS subunits
+388753,COA6,cytochrome c oxidase assembly factor 6,OXPHOS > Complex IV > CIV assembly factors | OXPHOS > OXPHOS assembly factors
+5442,POLRMT,RNA polymerase mitochondrial,Mitochondrial central dogma > mtDNA maintenance > mtDNA replication | Mitochondrial central dogma > mtDNA maintenance > mtDNA nucleoid | Mitochondrial central dogma > mtRNA metabolism > Transcription
+23479,ISCU,iron-sulfur cluster assembly enzyme,Metabolism > Metals and cofactors > Fe-S cluster biosynthesis | Metabolism > Metals and cofactors > Fe-S-containing proteins
+84816,RTN4IP1,reticulon 4 interacting protein 1,0
+55753,OGDHL,oxoglutarate dehydrogenase L,Metabolism > Carbohydrate metabolism > TCA cycle
+509,ATP5F1C,ATP synthase F1 subunit gamma,OXPHOS > Complex V > CV subunits | OXPHOS > OXPHOS subunits
+10295,BCKDK,branched chain keto acid dehydrogenase kinase,Metabolism > Amino acid metabolism > Branched-chain amino acid metabolism | Metabolism > Amino acid metabolism > Branched-chain amino acid dehydrogenase complex
+84340,GFM2,GTP dependent ribosome recycling factor mitochondrial 2,Mitochondrial central dogma > Translation > Translation factors
+29078,NDUFAF4,NADH:ubiquinone oxidoreductase complex assembly factor 4,OXPHOS > Complex I > CI assembly factors | OXPHOS > OXPHOS assembly factors
+399512,SLC25A35,solute carrier family 25 member 35,Small molecule transport > SLC25A family
+8402,SLC25A11,solute carrier family 25 member 11,Metabolism > Carbohydrate metabolism > Gluconeogenesis | Metabolism > Carbohydrate metabolism > Malate-aspartate shuttle | Metabolism > Carbohydrate metabolism > TCA-associated | Small molecule transport > SLC25A family
+26521,TIMM8B,translocase of inner mitochondrial membrane 8 homolog B,"Protein import, sorting and homeostasis > Protein homeostasis > Chaperones | Protein import, sorting and homeostasis > Protein import and sorting"
+27349,MCAT,malonyl-CoA-acyl carrier protein transacylase,Metabolism > Lipid metabolism > Type II fatty acid synthesis
+200205,IBA57,iron-sulfur cluster assembly factor IBA57,Metabolism > Metals and cofactors > Fe-S cluster biosynthesis
+11331,PHB2,prohibitin 2,"Protein import, sorting and homeostasis > Protein homeostasis > Chaperones"
+7818,DAP3,death associated protein 3,Mitochondrial central dogma > Translation > Mitochondrial ribosome
+56942,CMC2,C-X9-C motif containing 2,OXPHOS > Complex IV > CIV assembly factors | OXPHOS > OXPHOS assembly factors
+644096,SDHAF1,succinate dehydrogenase complex assembly factor 1,OXPHOS > Complex II > CII assembly factors | OXPHOS > OXPHOS assembly factors
+51373,MRPS17,mitochondrial ribosomal protein S17,Mitochondrial central dogma > Translation > Mitochondrial ribosome
+137872,ADHFE1,alcohol dehydrogenase iron containing 1,Metabolism > Amino acid metabolism > GABA metabolism
+9054,NFS1,NFS1 cysteine desulfurase,Metabolism > Metals and cofactors > Fe-S cluster biosynthesis | Metabolism > Metals and cofactors > Fe-S-containing proteins
+79133,NDUFAF5,NADH:ubiquinone oxidoreductase complex assembly factor 5,OXPHOS > Complex I > CI assembly factors | OXPHOS > OXPHOS assembly factors
+63875,MRPL17,mitochondrial ribosomal protein L17,Mitochondrial central dogma > Translation > Mitochondrial ribosome
+51204,TACO1,translational activator of cytochrome c oxidase I,Mitochondrial central dogma > Translation > Translation factors | OXPHOS > Complex IV > CIV assembly factors | OXPHOS > OXPHOS assembly factors
+55669,MFN1,mitofusin 1,Mitochondrial dynamics and surveillance > Fusion | Mitochondrial dynamics and surveillance > Organelle contact sites
+160760,PPTC7,protein phosphatase targeting COQ7,Signaling
+65003,MRPL11,mitochondrial ribosomal protein L11,Mitochondrial central dogma > Translation > Mitochondrial ribosome
+1327,COX4I1,cytochrome c oxidase subunit 4I1,OXPHOS > Complex IV > CIV subunits | OXPHOS > OXPHOS subunits
+4726,NDUFS6,NADH:ubiquinone oxidoreductase subunit S6,OXPHOS > Complex I > CI subunits | OXPHOS > OXPHOS subunits
+28998,MRPL13,mitochondrial ribosomal protein L13,Mitochondrial central dogma > Translation > Mitochondrial ribosome
+5019,OXCT1,3-oxoacid CoA-transferase 1,Metabolism > Carbohydrate metabolism > Ketone metabolism
+1329,COX5B,cytochrome c oxidase subunit 5B,OXPHOS > Complex IV > CIV subunits | OXPHOS > OXPHOS subunits
+5164,PDK2,pyruvate dehydrogenase kinase 2,Metabolism > Carbohydrate metabolism > Pyruvate metabolism
+211,ALAS1,5'-aminolevulinate synthase 1,Metabolism > Metals and cofactors > Heme synthesis and processing
+9553,MRPL33,mitochondrial ribosomal protein L33,Mitochondrial central dogma > Translation > Mitochondrial ribosome
+25821,MTO1,mitochondrial tRNA translation optimization 1,Mitochondrial central dogma > mtRNA metabolism > mt-tRNA modifications | Metabolism > Vitamin metabolism > Folate and 1-C metabolism
+11019,LIAS,lipoic acid synthetase,Metabolism > Lipid metabolism > Lipoate insertion | Metabolism > Metals and cofactors > Fe-S-containing proteins
+4698,NDUFA5,NADH:ubiquinone oxidoreductase subunit A5,OXPHOS > Complex I > CI subunits | OXPHOS > OXPHOS subunits
+4712,NDUFB6,NADH:ubiquinone oxidoreductase subunit B6,OXPHOS > Complex I > CI subunits | OXPHOS > OXPHOS subunits
+10651,MTX2,metaxin 2,"Protein import, sorting and homeostasis > Protein import and sorting > SAM | Mitochondrial dynamics and surveillance > Intramitochondrial membrane interactions"
+8801,SUCLG2,succinate-CoA ligase GDP-forming subunit beta,Metabolism > Carbohydrate metabolism > TCA cycle | Metabolism > Carbohydrate metabolism > Itaconate metabolism | Metabolism > Nucleotide metabolism > Nucleotide synthesis and processing
+2230,FDX1,ferredoxin 1,"Metabolism > Lipid metabolism > Cholesterol, bile acid, steroid synthesis | Metabolism > Metals and cofactors > Heme synthesis and processing | Metabolism > Metals and cofactors > Fe-S cluster biosynthesis | Metabolism > Metals and cofactors > Fe-S-containing proteins | Metabolism > Vitamin metabolism > Vitamin D metabolism"
+6576,SLC25A1,solute carrier family 25 member 1,Metabolism > Carbohydrate metabolism > Gluconeogenesis | Metabolism > Carbohydrate metabolism > TCA-associated | Metabolism > Lipid metabolism | Small molecule transport > SLC25A family
+28957,MRPS28,mitochondrial ribosomal protein S28,Mitochondrial central dogma > Translation > Mitochondrial ribosome
+92609,TIMM50,translocase of inner mitochondrial membrane 50,"Protein import, sorting and homeostasis > Protein import and sorting > TIM23 presequence pathway"
+7417,VDAC2,voltage dependent anion channel 2,Small molecule transport
+284439,SLC25A42,solute carrier family 25 member 42,Metabolism > Metals and cofactors > Coenzyme A metabolism | Small molecule transport > SLC25A family
+54543,TOMM7,translocase of outer mitochondrial membrane 7,"Protein import, sorting and homeostasis > Protein import and sorting > TOM | Mitochondrial dynamics and surveillance > Mitophagy | Mitochondrial dynamics and surveillance > Autophagy"
+1891,ECH1,enoyl-CoA hydratase 1,Metabolism > Lipid metabolism
+5188,GATB,glutamyl-tRNA amidotransferase subunit B,Mitochondrial central dogma > Translation > mt-tRNA synthetases
+617,BCS1L,"BCS1 homolog, ubiquinol-cytochrome c reductase complex chaperone",OXPHOS > Complex III > CIII assembly factors | OXPHOS > OXPHOS assembly factors
+26284,ERAL1,Era like 12S mitochondrial rRNA chaperone 1,Mitochondrial central dogma > mtRNA metabolism > mtRNA granules | Mitochondrial central dogma > Translation > Mitochondrial ribosome assembly
+152100,CMC1,C-X9-C motif containing 1,OXPHOS > Complex IV > CIV assembly factors | OXPHOS > OXPHOS assembly factors
+10573,MRPL28,mitochondrial ribosomal protein L28,Mitochondrial central dogma > Translation > Mitochondrial ribosome
+10102,TSFM,"Ts translation elongation factor, mitochondrial",Mitochondrial central dogma > Translation > Translation factors
+2395,FXN,frataxin,Metabolism > Metals and cofactors > Fe-S cluster biosynthesis
+27247,NFU1,NFU1 iron-sulfur cluster scaffold,Metabolism > Metals and cofactors > Fe-S cluster biosynthesis | Metabolism > Metals and cofactors > Fe-S-containing proteins
+51067,YARS2,tyrosyl-tRNA synthetase 2,Mitochondrial central dogma > Translation > mt-tRNA synthetases
+219927,MRPL21,mitochondrial ribosomal protein L21,Mitochondrial central dogma > Translation > Mitochondrial ribosome
+8659,ALDH4A1,aldehyde dehydrogenase 4 family member A1,Metabolism > Amino acid metabolism > Proline metabolism | Metabolism > Amino acid metabolism > Glyoxylate metabolism
+84134,TOMM40L,translocase of outer mitochondrial membrane 40 like,"Protein import, sorting and homeostasis > Protein import and sorting > TOM"
+51103,NDUFAF1,NADH:ubiquinone oxidoreductase complex assembly factor 1,OXPHOS > Complex I > CI assembly factors | OXPHOS > OXPHOS assembly factors
+4716,NDUFB10,NADH:ubiquinone oxidoreductase subunit B10,OXPHOS > Complex I > CI subunits | OXPHOS > OXPHOS subunits
+36,ACADSB,acyl-CoA dehydrogenase short/branched chain,Metabolism > Lipid metabolism > Fatty acid oxidation | Metabolism > Amino acid metabolism > Branched-chain amino acid metabolism
+64965,MRPS9,mitochondrial ribosomal protein S9,Mitochondrial central dogma > mtRNA metabolism > mtRNA granules | Mitochondrial central dogma > Translation > Mitochondrial ribosome
+56997,COQ8A,coenzyme Q8A,Metabolism > Metals and cofactors > Coenzyme Q metabolism
+37,ACADVL,acyl-CoA dehydrogenase very long chain,Metabolism > Lipid metabolism > Fatty acid oxidation
+51117,COQ4,coenzyme Q4,Metabolism > Metals and cofactors > Coenzyme Q metabolism
+29088,MRPL15,mitochondrial ribosomal protein L15,Mitochondrial central dogma > Translation > Mitochondrial ribosome
+4695,NDUFA2,NADH:ubiquinone oxidoreductase subunit A2,OXPHOS > Complex I > CI subunits | OXPHOS > OXPHOS subunits
+79590,MRPL24,mitochondrial ribosomal protein L24,Mitochondrial central dogma > Translation > Mitochondrial ribosome
+3329,HSPD1,heat shock protein family D (Hsp60) member 1,"Protein import, sorting and homeostasis > Protein homeostasis > Chaperones"
+4725,NDUFS5,NADH:ubiquinone oxidoreductase subunit S5,OXPHOS > Complex I > CI subunits | OXPHOS > OXPHOS subunits
+50808,AK3,adenylate kinase 3,Metabolism > Nucleotide metabolism > Nucleotide synthesis and processing
+54205,CYCS,"cytochrome c, somatic",Metabolism > Metals and cofactors > Heme-containing proteins | Metabolism > Electron carriers > Cytochromes | OXPHOS > OXPHOS subunits | OXPHOS > Cytochrome C | Mitochondrial dynamics and surveillance > Apoptosis
+4285,MIPEP,mitochondrial intermediate peptidase,"Protein import, sorting and homeostasis > Protein import and sorting > Preprotein cleavage | Protein import, sorting and homeostasis > Protein homeostasis > Proteases"
+90624,LYRM7,LYR motif containing 7,OXPHOS > Complex III > CIII assembly factors | OXPHOS > OXPHOS assembly factors
+1384,CRAT,carnitine O-acetyltransferase,Metabolism > Lipid metabolism > Fatty acid oxidation
+5096,PCCB,propionyl-CoA carboxylase subunit beta,Metabolism > Carbohydrate metabolism > Propanoate metabolism | Metabolism > Lipid metabolism > Fatty acid oxidation
+51081,MRPS7,mitochondrial ribosomal protein S7,Mitochondrial central dogma > mtRNA metabolism > mtRNA granules | Mitochondrial central dogma > Translation > Mitochondrial ribosome
+11222,MRPL3,mitochondrial ribosomal protein L3,Mitochondrial central dogma > Translation > Mitochondrial ribosome
+5625,PRODH,proline dehydrogenase 1,"Metabolism > Amino acid metabolism > Proline metabolism | Metabolism > Electron carriers > Q-linked reactions, other"
+5095,PCCA,propionyl-CoA carboxylase subunit alpha,Metabolism > Carbohydrate metabolism > Propanoate metabolism | Metabolism > Lipid metabolism > Fatty acid oxidation | Metabolism > Vitamin metabolism > Biotin utilizing proteins
+56922,MCCC1,methylcrotonoyl-CoA carboxylase 1,Metabolism > Amino acid metabolism > Branched-chain amino acid metabolism | Metabolism > Vitamin metabolism > Biotin utilizing proteins
+6183,MRPS12,mitochondrial ribosomal protein S12,Mitochondrial central dogma > Translation > Mitochondrial ribosome
+81570,CLPB,caseinolytic mitochondrial matrix peptidase chaperone subunit B,"Protein import, sorting and homeostasis > Protein homeostasis > Proteases"
+5163,PDK1,pyruvate dehydrogenase kinase 1,Metabolism > Carbohydrate metabolism > Pyruvate metabolism
+740,MRPL49,mitochondrial ribosomal protein L49,Mitochondrial central dogma > Translation > Mitochondrial ribosome
+1347,COX7A2,cytochrome c oxidase subunit 7A2,OXPHOS > Complex IV > CIV subunits | OXPHOS > OXPHOS subunits
+84233,TMEM126A,transmembrane protein 126A,OXPHOS > Complex I > CI assembly factors | OXPHOS > OXPHOS assembly factors
+55268,ECHDC2,enoyl-CoA hydratase domain containing 2,0
+3052,HCCS,holocytochrome c synthase,Metabolism > Metals and cofactors > Heme synthesis and processing | OXPHOS > OXPHOS subunits | OXPHOS > Cytochrome C
+11112,HIBADH,3-hydroxyisobutyrate dehydrogenase,Metabolism > Amino acid metabolism > Branched-chain amino acid metabolism
+9801,MRPL19,mitochondrial ribosomal protein L19,Mitochondrial central dogma > Translation > Mitochondrial ribosome
+64979,MRPL36,mitochondrial ribosomal protein L36,Mitochondrial central dogma > Translation > Mitochondrial ribosome
+253512,SLC25A30,solute carrier family 25 member 30,Metabolism > Sulfur metabolism | Small molecule transport > SLC25A family
+622,BDH1,3-hydroxybutyrate dehydrogenase 1,Metabolism > Carbohydrate metabolism > Ketone metabolism
+10667,FARS2,"phenylalanyl-tRNA synthetase 2, mitochondrial",Mitochondrial central dogma > Translation > mt-tRNA synthetases
+22,ABCB7,ATP binding cassette subfamily B member 7,Metabolism > Metals and cofactors > Heme synthesis and processing | Metabolism > Metals and cofactors > Fe-S cluster biosynthesis | Metabolism > Metals and cofactors > Molybdenum cofactor synthesis and proteins | Small molecule transport > ABC transporters
+4580,MTX1,metaxin 1,"Protein import, sorting and homeostasis > Protein import and sorting > SAM | Mitochondrial dynamics and surveillance > Intramitochondrial membrane interactions"
+4701,NDUFA7,NADH:ubiquinone oxidoreductase subunit A7,OXPHOS > Complex I > CI subunits | OXPHOS > OXPHOS subunits
+10440,TIMM17A,translocase of inner mitochondrial membrane 17A,"Protein import, sorting and homeostasis > Protein import and sorting > TIM23 presequence pathway"
+223,ALDH9A1,aldehyde dehydrogenase 9 family member A1,Metabolism > Amino acid metabolism > GABA metabolism | Metabolism > Detoxification > ROS and glutathione metabolism
+51023,MRPS18C,mitochondrial ribosomal protein S18C,Mitochondrial central dogma > Translation > Mitochondrial ribosome
+92935,MARS2,"methionyl-tRNA synthetase 2, mitochondrial",Mitochondrial central dogma > Translation > mt-tRNA synthetases
+4329,ALDH6A1,aldehyde dehydrogenase 6 family member A1,Metabolism > Amino acid metabolism > Branched-chain amino acid metabolism
+2232,FDXR,ferredoxin reductase,"Metabolism > Lipid metabolism > Cholesterol, bile acid, steroid synthesis | Metabolism > Metals and cofactors > Heme synthesis and processing | Metabolism > Metals and cofactors > Fe-S cluster biosynthesis | Metabolism > Vitamin metabolism > Vitamin D metabolism"
+283459,GATC,glutamyl-tRNA amidotransferase subunit C,Mitochondrial central dogma > Translation > mt-tRNA synthetases
+10131,TRAP1,TNF receptor associated protein 1,"Protein import, sorting and homeostasis > Protein homeostasis > Chaperones"
+27034,ACAD8,acyl-CoA dehydrogenase family member 8,Metabolism > Amino acid metabolism > Branched-chain amino acid metabolism
+217,ALDH2,aldehyde dehydrogenase 2 family member,Metabolism > Detoxification > Xenobiotic metabolism
+10105,PPIF,peptidylprolyl isomerase F,Signaling > Calcium homeostasis > Mitochondrial permeability transition pore
+29928,TIMM22,translocase of inner mitochondrial membrane 22,"Protein import, sorting and homeostasis > Protein import and sorting > TIM22 carrier pathway"
+3712,IVD,isovaleryl-CoA dehydrogenase,Metabolism > Amino acid metabolism > Branched-chain amino acid metabolism
+79944,L2HGDH,L-2-hydroxyglutarate dehydrogenase,Metabolism > Carbohydrate metabolism > TCA-associated
+23474,ETHE1,ETHE1 persulfide dioxygenase,Metabolism > Sulfur metabolism
+55052,MRPL20,mitochondrial ribosomal protein L20,Mitochondrial central dogma > Translation > Mitochondrial ribosome
+292,SLC25A5,solute carrier family 25 member 5,Metabolism > Nucleotide metabolism > Nucleotide import | Signaling > Calcium homeostasis > Mitochondrial permeability transition pore | Small molecule transport > SLC25A family
+8604,SLC25A12,solute carrier family 25 member 12,Metabolism > Carbohydrate metabolism > Malate-aspartate shuttle | Metabolism > Amino acid metabolism > Glutamate metabolism | Signaling > Calcium homeostasis > EF hand proteins | Small molecule transport > SLC25A family
+54460,MRPS21,mitochondrial ribosomal protein S21,Mitochondrial central dogma > Translation > Mitochondrial ribosome
+56993,TOMM22,translocase of outer mitochondrial membrane 22,"Protein import, sorting and homeostasis > Protein import and sorting > TOM"
+10449,ACAA2,acetyl-CoA acyltransferase 2,Metabolism > Carbohydrate metabolism > Ketone metabolism | Metabolism > Lipid metabolism > Fatty acid oxidation | Metabolism > Amino acid metabolism > Lysine metabolism
+51263,MRPL30,mitochondrial ribosomal protein L30,Mitochondrial central dogma > Translation > Mitochondrial ribosome
+9093,DNAJA3,DnaJ heat shock protein family (Hsp40) member A3,"Protein import, sorting and homeostasis > Protein homeostasis > Chaperones"
+4708,NDUFB2,NADH:ubiquinone oxidoreductase subunit B2,OXPHOS > Complex I > CI subunits | OXPHOS > OXPHOS subunits
+65993,MRPS34,mitochondrial ribosomal protein S34,Mitochondrial central dogma > Translation > Mitochondrial ribosome
+2109,ETFB,electron transfer flavoprotein subunit beta,"Metabolism > Lipid metabolism > Fatty acid oxidation | Metabolism > Amino acid metabolism > Branched-chain amino acid metabolism | Metabolism > Amino acid metabolism > Lysine metabolism | Metabolism > Amino acid metabolism > Glycine metabolism | Metabolism > Vitamin metabolism > Choline and betaine metabolism | Metabolism > Electron carriers > Q-linked reactions, other"
+246269,AFG1L,AFG1 like ATPase,"Protein import, sorting and homeostasis > Protein homeostasis > Proteases"
+93974,ATP5IF1,ATP synthase inhibitory factor subunit 1,OXPHOS > Complex V > CV subunits | OXPHOS > OXPHOS subunits
+515,ATP5PB,ATP synthase peripheral stalk-membrane subunit b,OXPHOS > Complex V > CV subunits | OXPHOS > OXPHOS subunits
+1350,COX7C,cytochrome c oxidase subunit 7C,OXPHOS > Complex IV > CIV subunits | OXPHOS > OXPHOS subunits
+54927,CHCHD3,coiled-coil-helix-coiled-coil-helix domain containing 3,Mitochondrial dynamics and surveillance > Cristae formation > MICOS complex | Mitochondrial dynamics and surveillance > Intramitochondrial membrane interactions
+80219,COQ10B,coenzyme Q10B,Metabolism > Metals and cofactors > Coenzyme Q metabolism
+197322,ACSF3,acyl-CoA synthetase family member 3,Metabolism > Lipid metabolism > Type II fatty acid synthesis
+26073,POLDIP2,DNA polymerase delta interacting protein 2,Mitochondrial central dogma > mtDNA maintenance > mtDNA nucleoid
+1468,SLC25A10,solute carrier family 25 member 10,Metabolism > Carbohydrate metabolism > Gluconeogenesis | Metabolism > Carbohydrate metabolism > Malate-aspartate shuttle | Small molecule transport > SLC25A family
+10165,SLC25A13,solute carrier family 25 member 13,Metabolism > Carbohydrate metabolism > Malate-aspartate shuttle | Metabolism > Amino acid metabolism > Urea cycle | Signaling > Calcium homeostasis > EF hand proteins | Small molecule transport > SLC25A family
+5165,PDK3,pyruvate dehydrogenase kinase 3,Metabolism > Carbohydrate metabolism > Pyruvate metabolism
+10873,ME3,malic enzyme 3,Metabolism > Carbohydrate metabolism > TCA-associated
+29093,MRPL22,mitochondrial ribosomal protein L22,Mitochondrial central dogma > Translation > Mitochondrial ribosome
+3418,IDH2,isocitrate dehydrogenase (NADP(+)) 2,Metabolism > Carbohydrate metabolism > TCA cycle
+2639,GCDH,glutaryl-CoA dehydrogenase,Metabolism > Amino acid metabolism > Lysine metabolism
+57129,MRPL47,mitochondrial ribosomal protein L47,Mitochondrial central dogma > mtRNA metabolism > mtRNA granules | Mitochondrial central dogma > Translation > Mitochondrial ribosome
+27068,PPA2,inorganic pyrophosphatase 2,Mitochondrial central dogma > mtDNA maintenance | Mitochondrial central dogma > mtRNA metabolism | Mitochondrial central dogma > Translation | Metabolism > Nucleotide metabolism
+65005,MRPL9,mitochondrial ribosomal protein L9,Mitochondrial central dogma > Translation > Mitochondrial ribosome
+400916,CHCHD10,coiled-coil-helix-coiled-coil-helix domain containing 10,0
+10352,WARS2,"tryptophanyl tRNA synthetase 2, mitochondrial",Mitochondrial central dogma > Translation > mt-tRNA synthetases
+60386,SLC25A19,solute carrier family 25 member 19,Metabolism > Vitamin metabolism > Vitamin B1 metabolism | Small molecule transport > SLC25A family
+84869,CBR4,carbonyl reductase 4,Metabolism > Lipid metabolism > Type II fatty acid synthesis
+91689,SMDT1,single-pass membrane protein with aspartate rich tail 1,Signaling > Calcium homeostasis > Calcium cycle | Small molecule transport > Calcium uniporter
+3029,HAGH,hydroxyacylglutathione hydrolase,Metabolism > Detoxification > ROS and glutathione metabolism
+1346,COX7A1,cytochrome c oxidase subunit 7A1,OXPHOS > Complex IV > CIV subunits | OXPHOS > OXPHOS subunits
+92170,MTG1,mitochondrial ribosome associated GTPase 1,Mitochondrial central dogma > Translation > Mitochondrial ribosome assembly
+84987,COX14,cytochrome c oxidase assembly factor COX14,Mitochondrial central dogma > Translation > Translation factors | OXPHOS > Complex IV > CIV assembly factors | OXPHOS > OXPHOS assembly factors
+55967,NDUFA12,NADH:ubiquinone oxidoreductase subunit A12,OXPHOS > Complex I > CI subunits | OXPHOS > OXPHOS subunits
+51021,MRPS16,mitochondrial ribosomal protein S16,Mitochondrial central dogma > Translation > Mitochondrial ribosome
+80298,MTERF2,mitochondrial transcription termination factor 2,Mitochondrial central dogma > mtDNA maintenance > mtDNA nucleoid
+144363,ETFRF1,electron transfer flavoprotein regulatory factor 1,"Metabolism > Electron carriers > Q-linked reactions, other"
+2820,GPD2,glycerol-3-phosphate dehydrogenase 2,"Metabolism > Carbohydrate metabolism > Glycerol phosphate shuttle | Metabolism > Electron carriers > Q-linked reactions, other"
+4705,NDUFA10,NADH:ubiquinone oxidoreductase subunit A10,OXPHOS > Complex I > CI subunits | OXPHOS > OXPHOS subunits
+4718,NDUFC2,NADH:ubiquinone oxidoreductase subunit C2,OXPHOS > Complex I > CI subunits | OXPHOS > OXPHOS subunits
+81892,SLIRP,SRA stem-loop interacting RNA binding protein,Mitochondrial central dogma > mtRNA metabolism > mtRNA stability and decay | Mitochondrial central dogma > Translation
+29090,TIMM21,translocase of inner mitochondrial membrane 21,"Mitochondrial central dogma > Translation > Translation factors | Protein import, sorting and homeostasis > Protein import and sorting > TIM23 presequence pathway | OXPHOS > Complex IV > CIV assembly factors | OXPHOS > OXPHOS assembly factors"
+4702,NDUFA8,NADH:ubiquinone oxidoreductase subunit A8,OXPHOS > Complex I > CI subunits | OXPHOS > OXPHOS subunits
+2744,GLS,glutaminase,Metabolism > Amino acid metabolism > Glutamate metabolism
+54539,NDUFB11,NADH:ubiquinone oxidoreductase subunit B11,OXPHOS > Complex I > CI subunits | OXPHOS > OXPHOS subunits
+55526,DHTKD1,dehydrogenase E1 and transketolase domain containing 1,Metabolism > Amino acid metabolism > Lysine metabolism
+51011,FAHD2A,fumarylacetoacetate hydrolase domain containing 2A,0
+7923,HSD17B8,hydroxysteroid 17-beta dehydrogenase 8,"Metabolism > Lipid metabolism > Type II fatty acid synthesis | Metabolism > Lipid metabolism > Cholesterol, bile acid, steroid synthesis"
+84681,HINT2,histidine triad nucleotide binding protein 2,"Metabolism > Lipid metabolism > Cholesterol, bile acid, steroid synthesis"
+64969,MRPS5,mitochondrial ribosomal protein S5,Mitochondrial central dogma > Translation > Mitochondrial ribosome
+221545,C6orf136,chromosome 6 open reading frame 136,0
+283377,SPRYD4,SPRY domain containing 4,0
+387787,LIPT2,lipoyl(octanoyl) transferase 2,Metabolism > Lipid metabolism > Lipoate insertion
+1666,DECR1,"2,4-dienoyl-CoA reductase 1",Metabolism > Lipid metabolism > Fatty acid oxidation
+64949,MRPS26,mitochondrial ribosomal protein S26,Mitochondrial central dogma > Translation > Mitochondrial ribosome
+10166,SLC25A15,solute carrier family 25 member 15,Metabolism > Amino acid metabolism > Urea cycle | Small molecule transport > SLC25A family
+4731,NDUFV3,NADH:ubiquinone oxidoreductase subunit V3,OXPHOS > Complex I > CI subunits | OXPHOS > OXPHOS subunits
+670,BPHL,biphenyl hydrolase like,Metabolism > Detoxification > Xenobiotic metabolism
+30968,STOML2,stomatin like 2,"Protein import, sorting and homeostasis > Protein homeostasis"
+22921,MSRB2,methionine sulfoxide reductase B2,Metabolism > Detoxification > ROS and glutathione metabolism | Metabolism > Sulfur metabolism
+114294,LACTB,lactamase beta,"Protein import, sorting and homeostasis > Protein homeostasis > Proteases | Metabolism > Lipid metabolism > Phospholipid metabolism"
+10452,TOMM40,translocase of outer mitochondrial membrane 40,"Protein import, sorting and homeostasis > Protein import and sorting > TOM"
+114789,SLC25A25,solute carrier family 25 member 25,Metabolism > Nucleotide metabolism > Nucleotide import | Signaling > Calcium homeostasis > EF hand proteins | Small molecule transport > SLC25A family
+203054,ADCK5,aarF domain containing kinase 5,0
+80724,ACAD10,acyl-CoA dehydrogenase family member 10,Metabolism > Lipid metabolism > Fatty acid oxidation
+23078,VWA8,von Willebrand factor A domain containing 8,0
+60492,CCDC90B,coiled-coil domain containing 90B,0
+55735,DNAJC11,DnaJ heat shock protein family (Hsp40) member C11,"Protein import, sorting and homeostasis > Protein import and sorting | Mitochondrial dynamics and surveillance > Intramitochondrial membrane interactions"
+84266,ALKBH7,alkB homolog 7,0
+2731,GLDC,glycine decarboxylase,Metabolism > Amino acid metabolism > Glycine metabolism | Metabolism > Amino acid metabolism > Glycine cleavage system
+347411,MPC1L,mitochondrial pyruvate carrier 1 like,Metabolism > Carbohydrate metabolism > Gluconeogenesis | Metabolism > Carbohydrate metabolism > Pyruvate metabolism | Metabolism > Carbohydrate metabolism > TCA-associated | Small molecule transport
+117145,THEM4,thioesterase superfamily member 4,Metabolism > Lipid metabolism
+6742,SSBP1,single stranded DNA binding protein 1,Mitochondrial central dogma > mtDNA maintenance > mtDNA replication | Mitochondrial central dogma > mtDNA maintenance > mtDNA nucleoid
+51264,MRPL27,mitochondrial ribosomal protein L27,Mitochondrial central dogma > Translation > Mitochondrial ribosome
+150274,HSCB,HscB mitochondrial iron-sulfur cluster cochaperone,Metabolism > Metals and cofactors > Fe-S cluster biosynthesis
+55173,MRPS10,mitochondrial ribosomal protein S10,Mitochondrial central dogma > Translation > Mitochondrial ribosome
+205,AK4,adenylate kinase 4,Metabolism > Nucleotide metabolism > Nucleotide synthesis and processing
+55210,ATAD3A,ATPase family AAA domain containing 3A,Mitochondrial central dogma > mtDNA maintenance > mtDNA nucleoid | Mitochondrial dynamics and surveillance > Organelle contact sites | Mitochondrial dynamics and surveillance > Intramitochondrial membrane interactions
+51253,MRPL37,mitochondrial ribosomal protein L37,Mitochondrial central dogma > Translation > Mitochondrial ribosome
+80142,PTGES2,prostaglandin E synthase 2,Metabolism > Lipid metabolism > Eicosanoid metabolism
+10587,TXNRD2,thioredoxin reductase 2,Metabolism > Detoxification > ROS and glutathione metabolism | Metabolism > Detoxification > Selenoproteins
+54988,ACSM5,acyl-CoA synthetase medium chain family member 5,Metabolism > Lipid metabolism > Fatty acid oxidation | Metabolism > Detoxification > Xenobiotic metabolism
+55847,CISD1,CDGSH iron sulfur domain 1,Metabolism > Metals and cofactors > Fe-S cluster biosynthesis | Metabolism > Metals and cofactors > Fe-S-containing proteins
+64975,MRPL41,mitochondrial ribosomal protein L41,Mitochondrial central dogma > Translation > Mitochondrial ribosome
+54996,MTARC2,mitochondrial amidoxime reducing component 2,Metabolism > Metals and cofactors > Molybdenum cofactor synthesis and proteins | Metabolism > Detoxification > Xenobiotic metabolism | Metabolism > Detoxification > Amidoxime reducing complex
+64968,MRPS6,mitochondrial ribosomal protein S6,Mitochondrial central dogma > Translation > Mitochondrial ribosome
+6150,MRPL23,mitochondrial ribosomal protein L23,Mitochondrial central dogma > Translation > Mitochondrial ribosome
+58472,SQOR,sulfide quinone oxidoreductase,"Metabolism > Electron carriers > Q-linked reactions, other | Metabolism > Sulfur metabolism"
+6341,SCO1,synthesis of cytochrome C oxidase 1,OXPHOS > Complex IV > CIV assembly factors | Metabolism > Metals and cofactors > Copper metabolism | OXPHOS > OXPHOS assembly factors
+23464,GCAT,glycine C-acetyltransferase,Metabolism > Amino acid metabolism > Glycine metabolism
+25902,MTHFD1L,methylenetetrahydrofolate dehydrogenase (NADP+ dependent) 1 like,Metabolism > Vitamin metabolism > Folate and 1-C metabolism
+10455,ECI2,enoyl-CoA delta isomerase 2,Metabolism > Lipid metabolism > Fatty acid oxidation
+7381,UQCRB,ubiquinol-cytochrome c reductase binding protein,OXPHOS > Complex III > CIII subunits | OXPHOS > OXPHOS subunits
+10476,ATP5PD,ATP synthase peripheral stalk subunit d,OXPHOS > Complex V > CV subunits | OXPHOS > OXPHOS subunits
+10632,ATP5MG,ATP synthase membrane subunit g,OXPHOS > Complex V > CV subunits | OXPHOS > OXPHOS subunits | Mitochondrial dynamics and surveillance > Cristae formation
+131076,CCDC58,coiled-coil domain containing 58,0
+64087,MCCC2,methylcrotonoyl-CoA carboxylase 2,Metabolism > Amino acid metabolism > Branched-chain amino acid metabolism
+84693,MCEE,methylmalonyl-CoA epimerase,Metabolism > Carbohydrate metabolism > Propanoate metabolism | Metabolism > Lipid metabolism > Fatty acid oxidation
+4337,MOCS1,molybdenum cofactor synthesis 1,Metabolism > Metals and cofactors > Molybdenum cofactor synthesis and proteins
+4594,MMUT,methylmalonyl-CoA mutase,Metabolism > Carbohydrate metabolism > Propanoate metabolism | Metabolism > Lipid metabolism > Fatty acid oxidation | Metabolism > Vitamin metabolism > Vitamin B12 metabolism
+92014,SLC25A51,solute carrier family 25 member 51,Metabolism > Metals and cofactors > NAD biosynthesis and metabolism | Small molecule transport > SLC25A family
+6687,SPG7,"SPG7 matrix AAA peptidase subunit, paraplegin","Protein import, sorting and homeostasis > Protein homeostasis > Proteases"
+518,ATP5MC3,ATP synthase membrane subunit c locus 3,OXPHOS > Complex V > CV subunits | OXPHOS > OXPHOS subunits
+84896,ATAD1,ATPase family AAA domain containing 1,"Protein import, sorting and homeostasis > Protein homeostasis > Proteases"
+92106,OXNAD1,oxidoreductase NAD binding domain containing 1,0
+26164,MTG2,mitochondrial ribosome associated GTPase 2,Mitochondrial central dogma > Translation > Mitochondrial ribosome assembly
+55157,DARS2,"aspartyl-tRNA synthetase 2, mitochondrial",Mitochondrial central dogma > Translation > mt-tRNA synthetases
+51258,MRPL51,mitochondrial ribosomal protein L51,Mitochondrial central dogma > Translation > Mitochondrial ribosome
+5091,PC,pyruvate carboxylase,Metabolism > Carbohydrate metabolism > Gluconeogenesis | Metabolism > Carbohydrate metabolism > TCA-associated | Metabolism > Vitamin metabolism > Biotin utilizing proteins
+171425,CLYBL,citramalyl-CoA lyase,Metabolism > Carbohydrate metabolism > Itaconate metabolism
+50640,PNPLA8,patatin like phospholipase domain containing 8,Metabolism > Lipid metabolism > Cardiolipin synthesis | Metabolism > Lipid metabolism > Phospholipid metabolism
+23417,MLYCD,malonyl-CoA decarboxylase,Metabolism > Lipid metabolism
+100996939,PYURF,PIGY upstream reading frame,0
+10245,TIMM17B,translocase of inner mitochondrial membrane 17B,"Protein import, sorting and homeostasis > Protein import and sorting > TIM23 presequence pathway"
+64983,MRPL32,mitochondrial ribosomal protein L32,Mitochondrial central dogma > Translation > Mitochondrial ribosome
+115286,SLC25A26,solute carrier family 25 member 26,Small molecule transport > SLC25A family
+58510,PRODH2,proline dehydrogenase 2,"Metabolism > Amino acid metabolism > Glyoxylate metabolism | Metabolism > Electron carriers > Q-linked reactions, other"
+56954,NIT2,nitrilase family member 2,Metabolism > Detoxification
+112812,FDX2,ferredoxin 2,Metabolism > Metals and cofactors > Heme synthesis and processing | Metabolism > Metals and cofactors > Fe-S cluster biosynthesis | Metabolism > Metals and cofactors > Fe-S-containing proteins
+4200,ME2,malic enzyme 2,Metabolism > Carbohydrate metabolism > TCA-associated
+7284,TUFM,"Tu translation elongation factor, mitochondrial",Mitochondrial central dogma > Translation > Translation factors
+1339,COX6A2,cytochrome c oxidase subunit 6A2,OXPHOS > Complex IV > CIV subunits | OXPHOS > OXPHOS subunits
+10463,SLC30A9,solute carrier family 30 member 9,Small molecule transport
+132001,TAMM41,TAM41 mitochondrial translocator assembly and maintenance homolog,Metabolism > Lipid metabolism > Cardiolipin synthesis | Metabolism > Lipid metabolism > Phospholipid metabolism
+100287932,TIMM23,translocase of inner mitochondrial membrane 23,"Protein import, sorting and homeostasis > Protein import and sorting > TIM23 presequence pathway"
+55005,RMND1,required for meiotic nuclear division 1 homolog,Mitochondrial central dogma > mtRNA metabolism > mtRNA granules | Mitochondrial central dogma > Translation
+9927,MFN2,mitofusin 2,Mitochondrial dynamics and surveillance > Fusion | Mitochondrial dynamics and surveillance > Organelle contact sites
+728489,DNLZ,DNL-type zinc finger,"Protein import, sorting and homeostasis > Protein homeostasis > Chaperones"
+131474,CHCHD4,coiled-coil-helix-coiled-coil-helix domain containing 4,"Protein import, sorting and homeostasis > Protein import and sorting > MIA40"
+4706,NDUFAB1,NADH:ubiquinone oxidoreductase subunit AB1,OXPHOS > Complex I > CI subunits | Metabolism > Lipid metabolism > Type II fatty acid synthesis | Metabolism > Metals and cofactors > Fe-S cluster biosynthesis | OXPHOS > OXPHOS subunits
+116285,ACSM1,acyl-CoA synthetase medium chain family member 1,Metabolism > Lipid metabolism > Fatty acid oxidation
+493753,COA5,cytochrome c oxidase assembly factor 5,OXPHOS > Complex IV > CIV assembly factors | OXPHOS > OXPHOS assembly factors
+27235,COQ2,"coenzyme Q2, polyprenyltransferase",Metabolism > Metals and cofactors > Coenzyme Q metabolism
+57107,PDSS2,decaprenyl diphosphate synthase subunit 2,Metabolism > Metals and cofactors > Coenzyme Q metabolism
+1962,EHHADH,enoyl-CoA hydratase and 3-hydroxyacyl CoA dehydrogenase,Metabolism > Lipid metabolism
+4722,NDUFS3,NADH:ubiquinone oxidoreductase core subunit S3,OXPHOS > Complex I > CI subunits | OXPHOS > OXPHOS subunits
+23456,ABCB10,ATP binding cassette subfamily B member 10,Metabolism > Metals and cofactors > Heme synthesis and processing | Small molecule transport > ABC transporters
+1160,CKMT2,"creatine kinase, mitochondrial 2",Metabolism > Nucleotide metabolism > Creatine metabolism
+64432,MRPS25,mitochondrial ribosomal protein S25,Mitochondrial central dogma > Translation > Mitochondrial ribosome
+28976,ACAD9,acyl-CoA dehydrogenase family member 9,OXPHOS > Complex I > CI assembly factors | OXPHOS > OXPHOS assembly factors
+51241,COX16,cytochrome c oxidase assembly factor COX16,OXPHOS > Complex IV > CIV assembly factors | OXPHOS > OXPHOS assembly factors
+125228,FAM210A,family with sequence similarity 210 member A,0
+55856,ACOT13,acyl-CoA thioesterase 13,Metabolism > Lipid metabolism
+1374,CPT1A,carnitine palmitoyltransferase 1A,Metabolism > Lipid metabolism > Fatty acid oxidation | Metabolism > Metals and cofactors > Carnitine synthesis and transport | Metabolism > Metals and cofactors > Carnitine shuttle
+10901,DHRS4,dehydrogenase/reductase 4,Metabolism > Vitamin metabolism > Vitamin A metabolism
+153768,PRELID2,PRELI domain containing 2,0
+79587,CARS2,"cysteinyl-tRNA synthetase 2, mitochondrial",Mitochondrial central dogma > Translation > mt-tRNA synthetases
+2631,NIPSNAP2,nipsnap homolog 2,Mitochondrial dynamics and surveillance > Mitophagy | Mitochondrial dynamics and surveillance > Autophagy
+4713,NDUFB7,NADH:ubiquinone oxidoreductase subunit B7,OXPHOS > Complex I > CI subunits | OXPHOS > OXPHOS subunits
+125988,MICOS13,mitochondrial contact site and cristae organizing system subunit 13,Mitochondrial dynamics and surveillance > Cristae formation > MICOS complex
+51022,GLRX2,glutaredoxin 2,Metabolism > Metals and cofactors > Fe-S-containing proteins | Metabolism > Vitamin metabolism > Vitamin C metabolism | Metabolism > Detoxification > ROS and glutathione metabolism
+10884,MRPS30,mitochondrial ribosomal protein S30,Mitochondrial central dogma > Translation > Mitochondrial ribosome
+9997,SCO2,synthesis of cytochrome C oxidase 2,OXPHOS > Complex IV > CIV assembly factors | Metabolism > Metals and cofactors > Copper metabolism | OXPHOS > OXPHOS assembly factors
+3028,HSD17B10,hydroxysteroid 17-beta dehydrogenase 10,"Mitochondrial central dogma > mtRNA metabolism > mtRNA granules | Mitochondrial central dogma > mtRNA metabolism > Polycistronic mtRNA processing | Mitochondrial central dogma > mtRNA metabolism > mt-tRNA modifications | Metabolism > Lipid metabolism > Fatty acid oxidation | Metabolism > Lipid metabolism > Cholesterol, bile acid, steroid synthesis | Metabolism > Amino acid metabolism > Branched-chain amino acid metabolism"
+79731,NARS2,"asparaginyl-tRNA synthetase 2, mitochondrial",Mitochondrial central dogma > Translation > mt-tRNA synthetases
+285367,RPUSD3,RNA pseudouridine synthase D3,Mitochondrial central dogma > mtRNA metabolism > mtRNA granules | Mitochondrial central dogma > mtRNA metabolism > mt-rRNA modifications
+6821,SUOX,sulfite oxidase,Metabolism > Metals and cofactors > Molybdenum cofactor synthesis and proteins | Metabolism > Sulfur metabolism
+1757,SARDH,sarcosine dehydrogenase,Metabolism > Amino acid metabolism > Glycine metabolism | Metabolism > Vitamin metabolism > Choline and betaine metabolism | Metabolism > Vitamin metabolism > Folate and 1-C metabolism
+10247,RIDA,reactive intermediate imine deaminase A homolog,0
+1351,COX8A,cytochrome c oxidase subunit 8A,OXPHOS > Complex IV > CIV subunits | OXPHOS > OXPHOS subunits
+6697,SPR,sepiapterin reductase,Metabolism > Metals and cofactors > Tetrahydobiopterin synthesis
+4358,MPV17,mitochondrial inner membrane protein MPV17,Small molecule transport
+284273,ZADH2,zinc binding alcohol dehydrogenase domain containing 2,Metabolism > Lipid metabolism > Eicosanoid metabolism
+29074,MRPL18,mitochondrial ribosomal protein L18,Mitochondrial central dogma > Translation > Mitochondrial ribosome
+219,ALDH1B1,aldehyde dehydrogenase 1 family member B1,Metabolism > Detoxification > Xenobiotic metabolism
+118487,CHCHD1,coiled-coil-helix-coiled-coil-helix domain containing 1,Mitochondrial central dogma > Translation > Mitochondrial ribosome
+1678,TIMM8A,translocase of inner mitochondrial membrane 8A,"Protein import, sorting and homeostasis > Protein homeostasis > Chaperones | Protein import, sorting and homeostasis > Protein import and sorting"
+7419,VDAC3,voltage dependent anion channel 3,Signaling > Calcium homeostasis > Mitochondrial permeability transition pore | Small molecule transport
+29957,SLC25A24,solute carrier family 25 member 24,Metabolism > Nucleotide metabolism > Nucleotide import | Signaling > Calcium homeostasis > EF hand proteins | Small molecule transport > SLC25A family
+51660,MPC1,mitochondrial pyruvate carrier 1,Metabolism > Carbohydrate metabolism > Gluconeogenesis | Metabolism > Carbohydrate metabolism > Pyruvate metabolism | Metabolism > Carbohydrate metabolism > TCA-associated | Small molecule transport
+79751,SLC25A22,solute carrier family 25 member 22,Small molecule transport > SLC25A family
+83447,SLC25A31,solute carrier family 25 member 31,Metabolism > Nucleotide metabolism > Nucleotide import | Signaling > Calcium homeostasis > Mitochondrial permeability transition pore | Small molecule transport > SLC25A family
+83733,SLC25A18,solute carrier family 25 member 18,Small molecule transport > SLC25A family
+51095,TRNT1,tRNA nucleotidyl transferase 1,Mitochondrial central dogma > mtRNA metabolism > mt-tRNA modifications
+3416,IDE,insulin degrading enzyme,"Protein import, sorting and homeostasis > Protein homeostasis > Proteases"
+373156,GSTK1,glutathione S-transferase kappa 1,Metabolism > Detoxification > Xenobiotic metabolism
+57176,VARS2,"valyl-tRNA synthetase 2, mitochondrial",Mitochondrial central dogma > Translation > mt-tRNA synthetases
+3336,HSPE1,heat shock protein family E (Hsp10) member 1,"Protein import, sorting and homeostasis > Protein homeostasis > Chaperones"
+116541,MRPL54,mitochondrial ribosomal protein L54,Mitochondrial central dogma > Translation > Mitochondrial ribosome
+64978,MRPL38,mitochondrial ribosomal protein L38,Mitochondrial central dogma > Translation > Mitochondrial ribosome
+3396,MRPL58,mitochondrial ribosomal protein L58,Mitochondrial central dogma > Translation > Mitochondrial ribosome | Mitochondrial central dogma > Translation > Translation factors
+23787,MTCH1,mitochondrial carrier 1,Small molecule transport > SLC25A family
+51499,TRIAP1,TP53 regulated inhibitor of apoptosis 1,Metabolism > Lipid metabolism > Cardiolipin synthesis | Metabolism > Lipid metabolism > Phospholipid metabolism
+55037,PTCD3,pentatricopeptide repeat domain 3,Mitochondrial central dogma > Translation > Mitochondrial ribosome | Mitochondrial central dogma > Translation > Mitochondrial ribosome assembly
+1352,COX10,cytochrome c oxidase assembly factor heme A:farnesyltransferase COX10,OXPHOS > Complex IV > CIV assembly factors | Metabolism > Metals and cofactors > Heme synthesis and processing | OXPHOS > OXPHOS assembly factors
+8165,AKAP1,A-kinase anchoring protein 1,Signaling > cAMP-PKA signaling
+55178,MRM3,mitochondrial rRNA methyltransferase 3,Mitochondrial central dogma > mtRNA metabolism > mt-rRNA modifications | Mitochondrial central dogma > Translation > Mitochondrial ribosome assembly
+204,AK2,adenylate kinase 2,Metabolism > Nucleotide metabolism > Nucleotide synthesis and processing
+54968,TMEM70,transmembrane protein 70,OXPHOS > Complex I > CI assembly factors | OXPHOS > Complex V > CV assembly factors | OXPHOS > OXPHOS assembly factors
+84273,NOA1,nitric oxide associated 1,Mitochondrial central dogma > mtRNA metabolism > mtRNA granules | Mitochondrial central dogma > Translation > Mitochondrial ribosome assembly
+63933,MCUR1,mitochondrial calcium uniporter regulator 1,0
+51522,TMEM14C,transmembrane protein 14C,0
+4717,NDUFC1,NADH:ubiquinone oxidoreductase subunit C1,OXPHOS > Complex I > CI subunits | OXPHOS > OXPHOS subunits
+51318,MRPL35,mitochondrial ribosomal protein L35,Mitochondrial central dogma > Translation > Mitochondrial ribosome
+4696,NDUFA3,NADH:ubiquinone oxidoreductase subunit A3,OXPHOS > Complex I > CI subunits | OXPHOS > OXPHOS subunits
+23590,PDSS1,decaprenyl diphosphate synthase subunit 1,Metabolism > Metals and cofactors > Coenzyme Q metabolism
+8034,SLC25A16,solute carrier family 25 member 16,Small molecule transport > SLC25A family
+154791,FMC1,formation of mitochondrial complex V assembly factor 1 homolog,OXPHOS > Complex V > CV assembly factors | OXPHOS > OXPHOS assembly factors
+6296,ACSM3,acyl-CoA synthetase medium chain family member 3,Metabolism > Lipid metabolism > Fatty acid oxidation
+137682,NDUFAF6,NADH:ubiquinone oxidoreductase complex assembly factor 6,OXPHOS > Complex I > CI assembly factors | OXPHOS > OXPHOS assembly factors
+7350,UCP1,uncoupling protein 1,Small molecule transport > SLC25A family
+94081,SFXN1,sideroflexin 1,Metabolism > Amino acid metabolism > Serine metabolism | Metabolism > Vitamin metabolism > Folate and 1-C metabolism | Small molecule transport > Sideroflexins
+51218,GLRX5,glutaredoxin 5,Metabolism > Metals and cofactors > Fe-S cluster biosynthesis | Metabolism > Metals and cofactors > Fe-S-containing proteins
+138428,PTRH1,peptidyl-tRNA hydrolase 1 homolog,0
+64963,MRPS11,mitochondrial ribosomal protein S11,Mitochondrial central dogma > Translation > Mitochondrial ribosome
+63929,XPNPEP3,X-prolyl aminopeptidase 3,"Protein import, sorting and homeostasis > Protein import and sorting > Preprotein cleavage | Protein import, sorting and homeostasis > Protein homeostasis > Proteases"
+54704,PDP1,pyruvate dehyrogenase phosphatase catalytic subunit 1,Metabolism > Carbohydrate metabolism > Pyruvate metabolism
+1632,ECI1,enoyl-CoA delta isomerase 1,Metabolism > Lipid metabolism > Fatty acid oxidation
+89874,SLC25A21,solute carrier family 25 member 21,Metabolism > Amino acid metabolism | Small molecule transport > SLC25A family
+123096,SLC25A29,solute carrier family 25 member 29,Metabolism > Amino acid metabolism > Lysine metabolism | Small molecule transport > SLC25A family
+283130,SLC25A45,solute carrier family 25 member 45,Small molecule transport > SLC25A family
+57001,SDHAF3,succinate dehydrogenase complex assembly factor 3,OXPHOS > Complex II > CII assembly factors | OXPHOS > OXPHOS assembly factors
+51012,PRELID3B,PRELI domain containing 3B,Metabolism > Lipid metabolism > Phospholipid metabolism
+51629,SLC25A39,solute carrier family 25 member 39,Small molecule transport > SLC25A family
+4709,NDUFB3,NADH:ubiquinone oxidoreductase subunit B3,OXPHOS > Complex I > CI subunits | OXPHOS > OXPHOS subunits
+25996,REXO2,RNA exonuclease 2,Mitochondrial central dogma > mtRNA metabolism > mtRNA stability and decay
+2628,GATM,glycine amidinotransferase,Metabolism > Nucleotide metabolism > Creatine metabolism
+26515,TIMM10B,translocase of inner mitochondrial membrane 10B,"Protein import, sorting and homeostasis > Protein homeostasis > Chaperones | Protein import, sorting and homeostasis > Protein import and sorting"
+54938,SARS2,"seryl-tRNA synthetase 2, mitochondrial",Mitochondrial central dogma > Translation > mt-tRNA synthetases
+55349,CHDH,choline dehydrogenase,"Metabolism > Amino acid metabolism > Glycine metabolism | Metabolism > Vitamin metabolism > Choline and betaine metabolism | Metabolism > Vitamin metabolism > Folate and 1-C metabolism | Metabolism > Electron carriers > Q-linked reactions, other"
+78988,MRPL57,mitochondrial ribosomal protein L57,Mitochondrial central dogma > Translation > Mitochondrial ribosome
+414919,C8orf82,chromosome 8 open reading frame 82,0
+124454,EARS2,"glutamyl-tRNA synthetase 2, mitochondrial",Mitochondrial central dogma > Translation > mt-tRNA synthetases
+9380,GRHPR,glyoxylate and hydroxypyruvate reductase,Metabolism > Amino acid metabolism > Glyoxylate metabolism
+123263,MTFMT,mitochondrial methionyl-tRNA formyltransferase,Mitochondrial central dogma > Translation > fMet processing | Metabolism > Vitamin metabolism > Folate and 1-C metabolism
+79810,PTCD2,pentatricopeptide repeat domain 2,Mitochondrial central dogma > mtRNA metabolism > mtRNA granules | Mitochondrial central dogma > mtRNA metabolism > Polycistronic mtRNA processing
+55862,ECHDC1,ethylmalonyl-CoA decarboxylase 1,Metabolism > Lipid metabolism
+23438,HARS2,"histidyl-tRNA synthetase 2, mitochondrial",Mitochondrial central dogma > Translation > mt-tRNA synthetases
+4697,NDUFA4,NDUFA4 mitochondrial complex associated,OXPHOS > Complex IV > CIV subunits | OXPHOS > OXPHOS subunits
+51079,NDUFA13,NADH:ubiquinone oxidoreductase subunit A13,OXPHOS > Complex I > CI subunits | OXPHOS > OXPHOS subunits
+128240,NAXE,NAD(P)HX epimerase,Metabolism > Metals and cofactors > NAD biosynthesis and metabolism
+8834,TMEM11,transmembrane protein 11,Mitochondrial dynamics and surveillance
+83642,SELENOO,selenoprotein O,Metabolism > Detoxification > Selenoproteins
+162417,NAGS,N-acetylglutamate synthase,Metabolism > Amino acid metabolism > Urea cycle
+3295,HSD17B4,hydroxysteroid 17-beta dehydrogenase 4,Metabolism > Lipid metabolism
+55471,NDUFAF7,NADH:ubiquinone oxidoreductase complex assembly factor 7,OXPHOS > Complex I > CI assembly factors | OXPHOS > OXPHOS assembly factors
+4942,OAT,ornithine aminotransferase,Metabolism > Amino acid metabolism > Proline metabolism
+54534,MRPL50,mitochondrial ribosomal protein L50,Mitochondrial central dogma > Translation > Mitochondrial ribosome
+1349,COX7B,cytochrome c oxidase subunit 7B,OXPHOS > Complex IV > CIV subunits | OXPHOS > OXPHOS subunits
+57038,RARS2,"arginyl-tRNA synthetase 2, mitochondrial",Mitochondrial central dogma > Translation > mt-tRNA synthetases
+339229,OXLD1,oxidoreductase like domain containing 1,0
+51110,LACTB2,lactamase beta 2,Mitochondrial central dogma > mtRNA metabolism > mtRNA stability and decay
+126328,NDUFA11,NADH:ubiquinone oxidoreductase subunit A11,OXPHOS > Complex I > CI subunits | OXPHOS > OXPHOS subunits
+54998,AURKAIP1,aurora kinase A interacting protein 1,Mitochondrial central dogma > Translation > Mitochondrial ribosome
+79145,CHCHD7,coiled-coil-helix-coiled-coil-helix domain containing 7,Metabolism > Metals and cofactors > Copper metabolism
+6472,SHMT2,serine hydroxymethyltransferase 2,Metabolism > Amino acid metabolism > Serine metabolism | Metabolism > Amino acid metabolism > Glycine metabolism | Metabolism > Vitamin metabolism > Folate and 1-C metabolism
+10797,MTHFD2,"methylenetetrahydrofolate dehydrogenase (NADP+ dependent) 2, methenyltetrahydrofolate cyclohydrolase",Metabolism > Vitamin metabolism > Folate and 1-C metabolism
+51115,RMDN1,regulator of microtubule dynamics 1,0
+1373,CPS1,carbamoyl-phosphate synthase 1,Metabolism > Amino acid metabolism > Urea cycle
+64928,MRPL14,mitochondrial ribosomal protein L14,Mitochondrial central dogma > Translation > Mitochondrial ribosome
+51250,MTRES1,mitochondrial transcription rescue factor 1,Mitochondrial central dogma > mtRNA metabolism > Transcription | Mitochondrial central dogma > Translation
+112724,RDH13,retinol dehydrogenase 13,Metabolism > Vitamin metabolism > Vitamin A metabolism
+79979,TRMT2B,tRNA methyltransferase 2 homolog B,Mitochondrial central dogma > mtRNA metabolism > mt-tRNA modifications | Mitochondrial central dogma > mtRNA metabolism > mt-rRNA modifications
+64951,MRPS24,mitochondrial ribosomal protein S24,Mitochondrial central dogma > Translation > Mitochondrial ribosome
+28958,COA3,cytochrome c oxidase assembly factor 3,Mitochondrial central dogma > Translation > Translation factors | OXPHOS > Complex IV > CIV assembly factors | OXPHOS > OXPHOS assembly factors
+2936,GSR,glutathione-disulfide reductase,Metabolism > Detoxification > ROS and glutathione metabolism
+2021,ENDOG,endonuclease G,Mitochondrial central dogma > mtDNA maintenance > mtDNA stability and decay | Mitochondrial central dogma > mtRNA metabolism > mtRNA stability and decay | Mitochondrial dynamics and surveillance > Apoptosis
+587,BCAT2,branched chain amino acid transaminase 2,Metabolism > Amino acid metabolism > Branched-chain amino acid metabolism
+79736,TEFM,"transcription elongation factor, mitochondrial",Mitochondrial central dogma > mtRNA metabolism > Transcription
+80221,ACSF2,acyl-CoA synthetase family member 2,Metabolism > Lipid metabolism > Fatty acid oxidation
+55687,TRMU,tRNA mitochondrial 2-thiouridylase,Mitochondrial central dogma > mtRNA metabolism > mt-tRNA modifications
+56945,MRPS22,mitochondrial ribosomal protein S22,Mitochondrial central dogma > Translation > Mitochondrial ribosome
+51056,LAP3,leucine aminopeptidase 3,"Protein import, sorting and homeostasis > Protein homeostasis > Proteases"
+2746,GLUD1,glutamate dehydrogenase 1,Metabolism > Amino acid metabolism > Glutamate metabolism | Metabolism > Amino acid metabolism > GABA metabolism
+3155,HMGCL,3-hydroxy-3-methylglutaryl-CoA lyase,Metabolism > Carbohydrate metabolism > Ketone metabolism | Metabolism > Amino acid metabolism > Branched-chain amino acid metabolism
+2272,FHIT,fragile histidine triad diadenosine triphosphatase,Metabolism > Nucleotide metabolism > Nucleotide synthesis and processing
+51650,MRPS33,mitochondrial ribosomal protein S33,Mitochondrial central dogma > Translation > Mitochondrial ribosome
+80224,NUBPL,nucleotide binding protein like,OXPHOS > Complex I > CI assembly factors | Metabolism > Metals and cofactors > Fe-S cluster biosynthesis | Metabolism > Metals and cofactors > Fe-S-containing proteins | OXPHOS > OXPHOS assembly factors
+57226,LYRM2,LYR motif containing 2,OXPHOS > Complex I > CI assembly factors | OXPHOS > OXPHOS assembly factors
+255027,MPV17L,MPV17 mitochondrial inner membrane protein like,Small molecule transport
+90480,GADD45GIP1,GADD45G interacting protein 1,Mitochondrial central dogma > Translation > Mitochondrial ribosome
+7019,TFAM,"transcription factor A, mitochondrial",Mitochondrial central dogma > mtDNA maintenance > mtDNA replication | Mitochondrial central dogma > mtDNA maintenance > mtDNA nucleoid | Mitochondrial central dogma > mtRNA metabolism > Transcription
+5832,ALDH18A1,aldehyde dehydrogenase 18 family member A1,Metabolism > Amino acid metabolism > Proline metabolism
+54995,OXSM,"3-oxoacyl-ACP synthase, mitochondrial",Metabolism > Lipid metabolism > Type II fatty acid synthesis
+56267,KYAT3,kynurenine aminotransferase 3,Metabolism > Amino acid metabolism > Kynurenine metabolism | Metabolism > Metals and cofactors > NAD biosynthesis and metabolism
+80222,TARS2,"threonyl-tRNA synthetase 2, mitochondrial",Mitochondrial central dogma > Translation > mt-tRNA synthetases
+9238,TBRG4,transforming growth factor beta regulator 4,Mitochondrial central dogma > mtRNA metabolism > Polycistronic mtRNA processing | Mitochondrial central dogma > mtRNA metabolism > mtRNA stability and decay
+157378,TMEM65,transmembrane protein 65,0
+140823,ROMO1,reactive oxygen species modulator 1,"Protein import, sorting and homeostasis > Protein import and sorting > TIM23 presequence pathway | Small molecule transport"
+25824,PRDX5,peroxiredoxin 5,Metabolism > Detoxification > ROS and glutathione metabolism
+29103,DNAJC15,DnaJ heat shock protein family (Hsp40) member C15,"Protein import, sorting and homeostasis > Protein import and sorting > Import motor"
+79568,MAIP1,matrix AAA peptidase interacting protein 1,"Protein import, sorting and homeostasis > Protein homeostasis > Chaperones"
+25994,HIGD1A,HIG1 hypoxia inducible domain family member 1A,OXPHOS > Complex IV > CIV assembly factors | OXPHOS > OXPHOS assembly factors | OXPHOS > Respirasome assembly
+283951,C16orf91,chromosome 16 open reading frame 91,0
+89941,RHOT2,ras homolog family member T2,Signaling > Calcium homeostasis > EF hand proteins | Mitochondrial dynamics and surveillance > Trafficking
+9673,SLC25A44,solute carrier family 25 member 44,Metabolism > Amino acid metabolism > Branched-chain amino acid metabolism | Small molecule transport > SLC25A family
+51179,HAO2,hydroxyacid oxidase 2,Metabolism > Lipid metabolism
+5018,OXA1L,OXA1L mitochondrial inner membrane protein,"Protein import, sorting and homeostasis > Protein import and sorting > OXA | Mitochondrial central dogma > Translation"
+91137,SLC25A46,solute carrier family 25 member 46,Small molecule transport > SLC25A family | Mitochondrial dynamics and surveillance > Fission | Mitochondrial dynamics and surveillance > Intramitochondrial membrane interactions
+57665,RDH14,retinol dehydrogenase 14,Metabolism > Vitamin metabolism > Vitamin A metabolism
+9556,ATP5MPL,ATP synthase membrane subunit 6.8PL,OXPHOS > Complex V > CV subunits | OXPHOS > OXPHOS subunits
+11238,CA5B,carbonic anhydrase 5B,Metabolism > Amino acid metabolism > Urea cycle
+80347,COASY,Coenzyme A synthase,Metabolism > Metals and cofactors > Coenzyme A metabolism
+284106,CISD3,CDGSH iron sulfur domain 3,Metabolism > Metals and cofactors > Fe-S cluster biosynthesis | Metabolism > Metals and cofactors > Fe-S-containing proteins
+2954,GSTZ1,glutathione S-transferase zeta 1,Metabolism > Detoxification > Xenobiotic metabolism
+125965,COX6B2,cytochrome c oxidase subunit 6B2,OXPHOS > Complex IV > CIV subunits | OXPHOS > OXPHOS subunits
+51031,GLOD4,glyoxalase domain containing 4,0
+30,ACAA1,acetyl-CoA acyltransferase 1,Metabolism > Lipid metabolism
+54677,CROT,carnitine O-octanoyltransferase,Metabolism > Lipid metabolism > Fatty acid oxidation
+64146,PDF,"peptide deformylase, mitochondrial","Mitochondrial central dogma > Translation > fMet processing | Protein import, sorting and homeostasis > Protein homeostasis"
+90639,COX19,cytochrome c oxidase assembly factor COX19,OXPHOS > Complex IV > CIV assembly factors | Metabolism > Metals and cofactors > Copper metabolism | OXPHOS > OXPHOS assembly factors
+275,AMT,aminomethyltransferase,Metabolism > Amino acid metabolism > Glycine metabolism | Metabolism > Amino acid metabolism > Glycine cleavage system | Metabolism > Vitamin metabolism > Folate and 1-C metabolism
+55066,PDPR,pyruvate dehydrogenase phosphatase regulatory subunit,Metabolism > Carbohydrate metabolism > Pyruvate metabolism
+57486,NLN,neurolysin,"Protein import, sorting and homeostasis > Protein homeostasis > Proteases"
+51027,BOLA1,bolA family member 1,Metabolism > Metals and cofactors > Fe-S cluster biosynthesis | Metabolism > Metals and cofactors > Fe-S-containing proteins
+212,ALAS2,5'-aminolevulinate synthase 2,Metabolism > Metals and cofactors > Heme synthesis and processing
+134266,GRPEL2,"GrpE like 2, mitochondrial","Protein import, sorting and homeostasis > Protein import and sorting > Import motor | Metabolism > Metals and cofactors > Fe-S cluster biosynthesis"
+501,ALDH7A1,aldehyde dehydrogenase 7 family member A1,Metabolism > Amino acid metabolism > Lysine metabolism | Metabolism > Amino acid metabolism > Glycine metabolism | Metabolism > Vitamin metabolism > Choline and betaine metabolism | Metabolism > Vitamin metabolism > Folate and 1-C metabolism | Metabolism > Detoxification > ROS and glutathione metabolism
+27440,HDHD5,haloacid dehalogenase like hydrolase domain containing 5,0
+2671,GFER,"growth factor, augmenter of liver regeneration","Protein import, sorting and homeostasis > Protein import and sorting > MIA40"
+83943,IMMP2L,inner mitochondrial membrane peptidase subunit 2,"Protein import, sorting and homeostasis > Protein import and sorting > Preprotein cleavage | Protein import, sorting and homeostasis > Protein homeostasis > Proteases"
+84701,COX4I2,cytochrome c oxidase subunit 4I2,OXPHOS > Complex IV > CIV subunits | OXPHOS > OXPHOS subunits
+54148,MRPL39,mitochondrial ribosomal protein L39,Mitochondrial central dogma > Translation > Mitochondrial ribosome
+51166,AADAT,aminoadipate aminotransferase,Metabolism > Amino acid metabolism > Lysine metabolism
+65991,FUNDC2,FUN14 domain containing 2,Mitochondrial dynamics and surveillance > Organelle contact sites | Signaling
+10434,LYPLA1,lysophospholipase 1,Metabolism > Lipid metabolism | Signaling
+5161,PDHA2,pyruvate dehydrogenase E1 subunit alpha 2,Metabolism > Carbohydrate metabolism > Pyruvate metabolism
+54516,MTRF1L,mitochondrial translational release factor 1 like,Mitochondrial central dogma > Translation > Translation factors
+84705,GTPBP3,"GTP binding protein 3, mitochondrial",Mitochondrial central dogma > mtRNA metabolism > mt-tRNA modifications | Metabolism > Vitamin metabolism > Folate and 1-C metabolism
+441024,MTHFD2L,methylenetetrahydrofolate dehydrogenase (NADP+ dependent) 2 like,Metabolism > Vitamin metabolism > Folate and 1-C metabolism
+10730,YME1L1,YME1 like 1 ATPase,"Protein import, sorting and homeostasis > Protein homeostasis > Proteases"
+10965,ACOT2,acyl-CoA thioesterase 2,Metabolism > Lipid metabolism
+84334,COA8,cytochrome c oxidase assembly factor 8,OXPHOS > Complex IV > CIV assembly factors | OXPHOS > OXPHOS assembly factors
+326625,MMAB,metabolism of cobalamin associated B,Metabolism > Vitamin metabolism > Vitamin B12 metabolism
+5498,PPOX,protoporphyrinogen oxidase,Metabolism > Metals and cofactors > Heme synthesis and processing
+5825,ABCD3,ATP binding cassette subfamily D member 3,Small molecule transport > ABC transporters
+23410,SIRT3,sirtuin 3,Metabolism > Metals and cofactors > NAD biosynthesis and metabolism | Signaling
+197257,LDHD,lactate dehydrogenase D,Metabolism > Carbohydrate metabolism
+84311,MRPL45,mitochondrial ribosomal protein L45,Mitochondrial central dogma > Translation > Mitochondrial ribosome
+91574,C12orf65,chromosome 12 open reading frame 65,Mitochondrial central dogma > Translation > Translation factors
+196294,IMMP1L,inner mitochondrial membrane peptidase subunit 1,"Protein import, sorting and homeostasis > Protein import and sorting > Preprotein cleavage | Protein import, sorting and homeostasis > Protein homeostasis > Proteases"
+5428,POLG,"DNA polymerase gamma, catalytic subunit",Mitochondrial central dogma > mtDNA maintenance > mtDNA replication | Mitochondrial central dogma > mtDNA maintenance > mtDNA nucleoid | Mitochondrial central dogma > mtDNA maintenance > mtDNA repair
+64756,ATPAF1,ATP synthase mitochondrial F1 complex assembly factor 1,OXPHOS > Complex V > CV assembly factors | OXPHOS > OXPHOS assembly factors
+2647,BLOC1S1,biogenesis of lysosomal organelles complex 1 subunit 1,Signaling
+160428,ALDH1L2,aldehyde dehydrogenase 1 family member L2,Metabolism > Vitamin metabolism > Folate and 1-C metabolism
+285521,COX18,cytochrome c oxidase assembly factor COX18,OXPHOS > Complex IV > CIV assembly factors | OXPHOS > OXPHOS assembly factors
+1371,CPOX,coproporphyrinogen oxidase,Metabolism > Metals and cofactors > Heme synthesis and processing
+23530,NNT,nicotinamide nucleotide transhydrogenase,Metabolism > Metals and cofactors > NAD biosynthesis and metabolism
+284184,NDUFAF8,NADH:ubiquinone oxidoreductase complex assembly factor 8,OXPHOS > Complex I > CI assembly factors | OXPHOS > OXPHOS assembly factors
+91419,ATP23,ATP23 metallopeptidase and ATP synthase assembly factor homolog,"Protein import, sorting and homeostasis > Protein homeostasis > Proteases"
+79877,DCAKD,dephospho-CoA kinase domain containing,0
+9551,ATP5MF,ATP synthase membrane subunit f,OXPHOS > Complex V > CV subunits | OXPHOS > OXPHOS subunits
+81855,SFXN3,sideroflexin 3,Metabolism > Amino acid metabolism > Serine metabolism | Metabolism > Vitamin metabolism > Folate and 1-C metabolism | Small molecule transport > Sideroflexins
+10157,AASS,aminoadipate-semialdehyde synthase,Metabolism > Amino acid metabolism > Lysine metabolism
+56616,DIABLO,diablo IAP-binding mitochondrial protein,Mitochondrial dynamics and surveillance > Apoptosis
+341947,COX8C,cytochrome c oxidase subunit 8C,OXPHOS > Complex IV > CIV subunits | OXPHOS > OXPHOS subunits
+5827,PXMP2,peroxisomal membrane protein 2,0
+64902,AGXT2,alanine--glyoxylate aminotransferase 2,Metabolism > Amino acid metabolism > Glyoxylate metabolism
+27165,GLS2,glutaminase 2,Metabolism > Amino acid metabolism > Glutamate metabolism
+79135,APOO,apolipoprotein O,Mitochondrial dynamics and surveillance > Cristae formation > MICOS complex
+84129,ACAD11,acyl-CoA dehydrogenase family member 11,Metabolism > Lipid metabolism > Fatty acid oxidation
+401207,C5orf63,chromosome 5 open reading frame 63,0
+112817,HOGA1,4-hydroxy-2-oxoglutarate aldolase 1,Metabolism > Amino acid metabolism > Glyoxylate metabolism
+54902,TTC19,tetratricopeptide repeat domain 19,OXPHOS > Complex III > CIII assembly factors | OXPHOS > OXPHOS assembly factors
+51335,NGRN,"neugrin, neurite outgrowth associated",Mitochondrial central dogma > mtRNA metabolism > mt-rRNA modifications | Mitochondrial central dogma > Translation > Mitochondrial ribosome assembly
+285343,TCAIM,"T cell activation inhibitor, mitochondrial",0
+2653,GCSH,glycine cleavage system protein H,Metabolism > Lipid metabolism > Lipoate insertion | Metabolism > Amino acid metabolism > Glycine metabolism | Metabolism > Amino acid metabolism > Glycine cleavage system
+23408,SIRT5,sirtuin 5,Metabolism > Metals and cofactors > NAD biosynthesis and metabolism
+84706,GPT2,glutamic--pyruvic transaminase 2,Metabolism > Amino acid metabolism > Glutamate metabolism
+100188893,TOMM6,translocase of outer mitochondrial membrane 6,"Protein import, sorting and homeostasis > Protein import and sorting > TOM"
+26355,FAM162A,family with sequence similarity 162 member A,0
+10058,ABCB6,ATP binding cassette subfamily B member 6 (Langereis blood group),Metabolism > Metals and cofactors > Heme synthesis and processing | Small molecule transport > ABC transporters
+28992,MACROD1,mono-ADP ribosylhydrolase 1,Signaling
+7263,TST,thiosulfate sulfurtransferase,Metabolism > Detoxification > Xenobiotic metabolism | Metabolism > Sulfur metabolism
+56181,MTFR1L,mitochondrial fission regulator 1 like,0
+56948,SDR39U1,short chain dehydrogenase/reductase family 39U member 1,0
+29958,DMGDH,dimethylglycine dehydrogenase,Metabolism > Amino acid metabolism > Glycine metabolism | Metabolism > Vitamin metabolism > Choline and betaine metabolism | Metabolism > Vitamin metabolism > Folate and 1-C metabolism
+9016,SLC25A14,solute carrier family 25 member 14,Metabolism > Sulfur metabolism | Small molecule transport > SLC25A family
+10650,PRELID3A,PRELI domain containing 3A,Metabolism > Lipid metabolism > Cardiolipin synthesis | Metabolism > Lipid metabolism > Phospholipid metabolism
+84269,CHCHD5,coiled-coil-helix-coiled-coil-helix domain containing 5,0
+9868,TOMM70,translocase of outer mitochondrial membrane 70,"Protein import, sorting and homeostasis > Protein import and sorting > TOM"
+4817,NIT1,nitrilase 1,Metabolism > Detoxification > ROS and glutathione metabolism
+81889,FAHD1,fumarylacetoacetate hydrolase domain containing 1,Metabolism > Carbohydrate metabolism > TCA-associated
+90550,MCU,mitochondrial calcium uniporter,Signaling > Calcium homeostasis > Calcium cycle | Small molecule transport > Calcium uniporter
+1593,CYP27A1,cytochrome P450 family 27 subfamily A member 1,"Metabolism > Lipid metabolism > Cholesterol, bile acid, steroid synthesis | Metabolism > Metals and cofactors > Heme-containing proteins"
+9812,DELE1,DAP3 binding cell death enhancer 1,Signaling
+79675,FASTKD1,FAST kinase domains 1,Mitochondrial central dogma > mtRNA metabolism > mtRNA granules | Mitochondrial central dogma > mtRNA metabolism > Polycistronic mtRNA processing | Mitochondrial central dogma > mtRNA metabolism > mtRNA stability and decay
+10240,MRPS31,mitochondrial ribosomal protein S31,Mitochondrial central dogma > Translation > Mitochondrial ribosome
+10840,ALDH1L1,aldehyde dehydrogenase 1 family member L1,Metabolism > Vitamin metabolism > Folate and 1-C metabolism
+26024,PTCD1,pentatricopeptide repeat domain 1,Mitochondrial central dogma > mtRNA metabolism > mtRNA granules
+3032,HADHB,hydroxyacyl-CoA dehydrogenase trifunctional multienzyme complex subunit beta,Metabolism > Carbohydrate metabolism > Ketone metabolism | Metabolism > Lipid metabolism > Fatty acid oxidation | Metabolism > Amino acid metabolism > Lysine metabolism
+54802,TRIT1,tRNA isopentenyltransferase 1,Mitochondrial central dogma > mtRNA metabolism > mt-tRNA modifications | Mitochondrial central dogma > mtRNA metabolism > mt-rRNA modifications
+54675,CRLS1,cardiolipin synthase 1,Metabolism > Lipid metabolism > Cardiolipin synthesis
+132158,GLYCTK,glycerate kinase,Metabolism > Carbohydrate metabolism
+81034,SLC25A32,solute carrier family 25 member 32,Metabolism > Vitamin metabolism > Vitamin B2 metabolism | Metabolism > Vitamin metabolism > Folate and 1-C metabolism | Small molecule transport > SLC25A family
+57505,AARS2,"alanyl-tRNA synthetase 2, mitochondrial",Mitochondrial central dogma > Translation > mt-tRNA synthetases
+9941,EXOG,exo/endonuclease G,Mitochondrial central dogma > mtDNA maintenance > mtDNA replication | Mitochondrial central dogma > mtDNA maintenance > mtDNA repair | Mitochondrial central dogma > mtDNA maintenance > mtDNA stability and decay
+51142,CHCHD2,coiled-coil-helix-coiled-coil-helix domain containing 2,Mitochondrial dynamics and surveillance > Apoptosis
+8564,KMO,kynurenine 3-monooxygenase,Metabolism > Amino acid metabolism > Kynurenine metabolism | Metabolism > Metals and cofactors > NAD biosynthesis and metabolism
+94097,SFXN5,sideroflexin 5,Metabolism > Carbohydrate metabolism > TCA-associated | Small molecule transport > Sideroflexins
+60528,ELAC2,elaC ribonuclease Z 2,Mitochondrial central dogma > mtRNA metabolism > Polycistronic mtRNA processing
+2876,GPX1,glutathione peroxidase 1,Metabolism > Detoxification > ROS and glutathione metabolism | Metabolism > Detoxification > Selenoproteins
+1375,CPT1B,carnitine palmitoyltransferase 1B,Metabolism > Lipid metabolism > Fatty acid oxidation | Metabolism > Metals and cofactors > Carnitine synthesis and transport | Metabolism > Metals and cofactors > Carnitine shuttle
+51024,FIS1,"fission, mitochondrial 1",Mitochondrial dynamics and surveillance > Fission
+27166,PRELID1,PRELI domain containing 1,Metabolism > Lipid metabolism > Cardiolipin synthesis | Metabolism > Lipid metabolism > Phospholipid metabolism
+7352,UCP3,uncoupling protein 3,Small molecule transport > SLC25A family
+9481,SLC25A27,solute carrier family 25 member 27,Small molecule transport > SLC25A family
+55972,SLC25A40,solute carrier family 25 member 40,Small molecule transport > SLC25A family
+79085,SLC25A23,solute carrier family 25 member 23,Metabolism > Nucleotide metabolism > Nucleotide import | Signaling > Calcium homeostasis > EF hand proteins | Small molecule transport > SLC25A family
+51409,HEMK1,HemK methyltransferase family member 1,Mitochondrial central dogma > Translation > Translation factors
+55186,SLC25A36,solute carrier family 25 member 36,Metabolism > Nucleotide metabolism > Nucleotide import | Small molecule transport > SLC25A family
+115209,OMA1,OMA1 zinc metallopeptidase,"Protein import, sorting and homeostasis > Protein homeostasis > Proteases | Mitochondrial dynamics and surveillance > Fusion | Mitochondrial dynamics and surveillance > Fission"
+137994,LETM2,leucine zipper and EF-hand containing transmembrane protein 2,0
+115817,DHRS1,dehydrogenase/reductase 1,"Metabolism > Lipid metabolism > Cholesterol, bile acid, steroid synthesis"
+2040,STOM,stomatin,0
+29081,METTL5,methyltransferase like 5,Mitochondrial central dogma > mtRNA metabolism > mt-rRNA modifications
+4482,MSRA,methionine sulfoxide reductase A,Metabolism > Detoxification > ROS and glutathione metabolism | Metabolism > Sulfur metabolism
+254552,NUDT8,nudix hydrolase 8,Metabolism > Metals and cofactors > Coenzyme A metabolism
+349565,NMNAT3,nicotinamide nucleotide adenylyltransferase 3,Metabolism > Metals and cofactors > NAD biosynthesis and metabolism
+54977,SLC25A38,solute carrier family 25 member 38,Metabolism > Amino acid metabolism > Glycine metabolism | Metabolism > Metals and cofactors > Heme synthesis and processing | Metabolism > Vitamin metabolism > Folate and 1-C metabolism | Small molecule transport > SLC25A family
+84769,MPV17L2,MPV17 mitochondrial inner membrane protein like 2,Mitochondrial central dogma > Translation > Mitochondrial ribosome assembly
+47,ACLY,ATP citrate lyase,Metabolism > Carbohydrate metabolism > TCA-associated
+225,ABCD2,ATP binding cassette subfamily D member 2,Small molecule transport > ABC transporters
+80308,FLAD1,flavin adenine dinucleotide synthetase 1,Metabolism > Vitamin metabolism > Vitamin B2 metabolism
+51601,LIPT1,lipoyltransferase 1,Metabolism > Lipid metabolism > Lipoate insertion
+80017,DGLUCY,D-glutamate cyclase,Metabolism > Amino acid metabolism
+5106,PCK2,"phosphoenolpyruvate carboxykinase 2, mitochondrial",Metabolism > Carbohydrate metabolism > Gluconeogenesis | Metabolism > Carbohydrate metabolism > TCA-associated
+133686,NADK2,"NAD kinase 2, mitochondrial",Metabolism > Metals and cofactors > NAD biosynthesis and metabolism
+4357,MPST,mercaptopyruvate sulfurtransferase,Metabolism > Detoxification > Xenobiotic metabolism | Metabolism > Sulfur metabolism
+25961,NUDT13,nudix hydrolase 13,Metabolism > Metals and cofactors > NAD biosynthesis and metabolism
+31,ACACA,acetyl-CoA carboxylase alpha,Metabolism > Lipid metabolism > Type II fatty acid synthesis | Metabolism > Vitamin metabolism > Biotin utilizing proteins
+18,ABAT,4-aminobutyrate aminotransferase,Metabolism > Amino acid metabolism > GABA metabolism | Metabolism > Metals and cofactors > Fe-S-containing proteins
+3158,HMGCS2,3-hydroxy-3-methylglutaryl-CoA synthase 2,Metabolism > Carbohydrate metabolism > Ketone metabolism
+7915,ALDH5A1,aldehyde dehydrogenase 5 family member A1,Metabolism > Amino acid metabolism > GABA metabolism
+548596,CKMT1A,"creatine kinase, mitochondrial 1A",Metabolism > Nucleotide metabolism > Creatine metabolism
+23761,PISD,phosphatidylserine decarboxylase,Metabolism > Lipid metabolism > Phospholipid metabolism
+4710,NDUFB4,NADH:ubiquinone oxidoreductase subunit B4,OXPHOS > Complex I > CI subunits | OXPHOS > OXPHOS subunits
+10975,UQCR11,"ubiquinol-cytochrome c reductase, complex III subunit XI",OXPHOS > Complex III > CIII subunits | OXPHOS > OXPHOS subunits
+84908,FAM136A,family with sequence similarity 136 member A,0
+401505,TOMM5,translocase of outer mitochondrial membrane 5,"Protein import, sorting and homeostasis > Protein import and sorting > TOM"
+27429,HTRA2,HtrA serine peptidase 2,"Protein import, sorting and homeostasis > Protein homeostasis > Proteases | Mitochondrial dynamics and surveillance > Apoptosis"
+4694,NDUFA1,NADH:ubiquinone oxidoreductase subunit A1,OXPHOS > Complex I > CI subunits | OXPHOS > OXPHOS subunits
+2987,GUK1,guanylate kinase 1,Metabolism > Nucleotide metabolism > Nucleotide synthesis and processing
+728294,D2HGDH,D-2-hydroxyglutarate dehydrogenase,Metabolism > Carbohydrate metabolism > TCA-associated
+80207,OPA3,outer mitochondrial membrane lipid metabolism regulator OPA3,0
+57016,AKR1B10,aldo-keto reductase family 1 member B10,Metabolism > Vitamin metabolism > Vitamin A metabolism | Metabolism > Detoxification > Xenobiotic metabolism
+5264,PHYH,phytanoyl-CoA 2-hydroxylase,Metabolism > Lipid metabolism
+91942,NDUFAF2,NADH:ubiquinone oxidoreductase complex assembly factor 2,OXPHOS > Complex I > CI assembly factors | OXPHOS > OXPHOS assembly factors
+51295,ECSIT,ECSIT signaling integrator,OXPHOS > Complex I > CI assembly factors | OXPHOS > OXPHOS assembly factors
+55486,PARL,presenilin associated rhomboid like,"Protein import, sorting and homeostasis > Protein homeostasis > Proteases | Mitochondrial dynamics and surveillance > Mitophagy | Mitochondrial dynamics and surveillance > Autophagy"
+28977,MRPL42,mitochondrial ribosomal protein L42,Mitochondrial central dogma > Translation > Mitochondrial ribosome
+3338,DNAJC4,DnaJ heat shock protein family (Hsp40) member C4,"Protein import, sorting and homeostasis > Protein homeostasis"
+51025,PAM16,presequence translocase associated motor 16,"Protein import, sorting and homeostasis > Protein import and sorting > Import motor"
+224,ALDH3A2,aldehyde dehydrogenase 3 family member A2,Metabolism > Detoxification > ROS and glutathione metabolism
+23305,ACSL6,acyl-CoA synthetase long chain family member 6,Metabolism > Lipid metabolism > Fatty acid oxidation
+57380,MRS2,magnesium transporter MRS2,Small molecule transport | Signaling
+55347,ABHD10,"abhydrolase domain containing 10, depalmitoylase",Metabolism > Detoxification > Xenobiotic metabolism
+135114,HINT3,histidine triad nucleotide binding protein 3,0
+11264,PXMP4,peroxisomal membrane protein 4,0
+64172,OSGEPL1,O-sialoglycoprotein endopeptidase like 1,Mitochondrial central dogma > mtRNA metabolism > mt-tRNA modifications
+318,NUDT2,nudix hydrolase 2,Metabolism > Nucleotide metabolism > Nucleotide synthesis and processing
+80777,CYB5B,cytochrome b5 type B,Metabolism > Metals and cofactors > Heme-containing proteins | Metabolism > Detoxification > Xenobiotic metabolism | Metabolism > Detoxification > Amidoxime reducing complex | Metabolism > Electron carriers > Cytochromes
+2926,GRSF1,G-rich RNA sequence binding factor 1,Mitochondrial central dogma > mtRNA metabolism > mtRNA granules | Mitochondrial central dogma > mtRNA metabolism > Polycistronic mtRNA processing | Mitochondrial central dogma > mtRNA metabolism > mtRNA stability and decay | Mitochondrial central dogma > Translation > Mitochondrial ribosome assembly
+28973,MRPS18B,mitochondrial ribosomal protein S18B,Mitochondrial central dogma > Translation > Mitochondrial ribosome
+84277,DNAJC30,DnaJ heat shock protein family (Hsp40) member C30,0
+847,CAT,catalase,Metabolism > Detoxification > ROS and glutathione metabolism
+1716,DGUOK,deoxyguanosine kinase,Metabolism > Nucleotide metabolism > Nucleotide synthesis and processing
+23597,ACOT9,acyl-CoA thioesterase 9,Metabolism > Lipid metabolism
+84532,ACSS1,acyl-CoA synthetase short chain family member 1,Metabolism > Lipid metabolism > Fatty acid oxidation
+55312,RFK,riboflavin kinase,Metabolism > Vitamin metabolism > Vitamin B2 metabolism
+56910,STARD7,StAR related lipid transfer domain containing 7,Metabolism > Lipid metabolism > Phospholipid metabolism | Small molecule transport
+56994,CHPT1,choline phosphotransferase 1,Metabolism > Lipid metabolism > Phospholipid metabolism
+51300,TIMMDC1,translocase of inner mitochondrial membrane domain containing 1,OXPHOS > Complex I > CI assembly factors | OXPHOS > OXPHOS assembly factors
+219938,SPATA19,spermatogenesis associated 19,0
+10553,HTATIP2,HIV-1 Tat interactive protein 2,0
+8574,AKR7A2,aldo-keto reductase family 7 member A2,Metabolism > Amino acid metabolism > GABA metabolism | Metabolism > Detoxification > Xenobiotic metabolism
+1854,DUT,deoxyuridine triphosphatase,Metabolism > Nucleotide metabolism > Nucleotide synthesis and processing
+25979,DHRS7B,dehydrogenase/reductase 7B,0
+9617,MTRF1,mitochondrial translation release factor 1,Mitochondrial central dogma > Translation > Translation factors
+55260,TMEM143,transmembrane protein 143,0
+56953,NT5M,"5',3'-nucleotidase, mitochondrial",Metabolism > Nucleotide metabolism > Nucleotide synthesis and processing
+55288,RHOT1,ras homolog family member T1,Signaling > Calcium homeostasis > EF hand proteins | Mitochondrial dynamics and surveillance > Trafficking
+4833,NME4,NME/NM23 nucleoside diphosphate kinase 4,Metabolism > Nucleotide metabolism > Nucleotide synthesis and processing
+10588,MTHFS,methenyltetrahydrofolate synthetase,Metabolism > Vitamin metabolism > Folate and 1-C metabolism
+90580,TIMM29,translocase of inner mitochondrial membrane 29,"Protein import, sorting and homeostasis > Protein import and sorting > TIM22 carrier pathway"
+55163,PNPO,pyridoxamine 5'-phosphate oxidase,Metabolism > Vitamin metabolism > Vitamin B6 metabolism
+221154,MICU2,mitochondrial calcium uptake 2,Signaling > Calcium homeostasis > Calcium cycle | Signaling > Calcium homeostasis > EF hand proteins | Small molecule transport > Calcium uniporter
+84105,PCBD2,pterin-4 alpha-carbinolamine dehydratase 2,Metabolism > Metals and cofactors > Tetrahydobiopterin synthesis
+55278,QRSL1,glutaminyl-tRNA amidotransferase subunit QRSL1,Mitochondrial central dogma > Translation > mt-tRNA synthetases
+57143,ADCK1,aarF domain containing kinase 1,0
+9588,PRDX6,peroxiredoxin 6,Metabolism > Lipid metabolism > Phospholipid metabolism | Metabolism > Detoxification > ROS and glutathione metabolism
+8508,NIPSNAP1,nipsnap homolog 1,Mitochondrial dynamics and surveillance > Mitophagy | Mitochondrial dynamics and surveillance > Autophagy
+2617,GARS1,glycyl-tRNA synthetase 1,Mitochondrial central dogma > Translation > mt-tRNA synthetases
+123876,ACSM2A,acyl-CoA synthetase medium chain family member 2A,Metabolism > Lipid metabolism > Fatty acid oxidation | Metabolism > Detoxification > Xenobiotic metabolism
+84275,SLC25A33,solute carrier family 25 member 33,Metabolism > Nucleotide metabolism > Nucleotide import | Small molecule transport > SLC25A family
+201229,LYRM9,LYR motif containing 9,0
+53917,RAB24,"RAB24, member RAS oncogene family",Mitochondrial dynamics and surveillance > Fission | Mitochondrial dynamics and surveillance > Autophagy
+25973,PARS2,"prolyl-tRNA synthetase 2, mitochondrial",Mitochondrial central dogma > Translation > mt-tRNA synthetases
+122704,MRPL52,mitochondrial ribosomal protein L52,Mitochondrial central dogma > Translation > Mitochondrial ribosome
+80324,PUS1,pseudouridine synthase 1,Mitochondrial central dogma > mtRNA metabolism > mtRNA granules | Mitochondrial central dogma > mtRNA metabolism > mt-tRNA modifications
+2806,GOT2,glutamic-oxaloacetic transaminase 2,Metabolism > Carbohydrate metabolism > Malate-aspartate shuttle | Metabolism > Amino acid metabolism > Glutamate metabolism | Metabolism > Amino acid metabolism > Glyoxylate metabolism | Metabolism > Amino acid metabolism > Kynurenine metabolism | Metabolism > Sulfur metabolism
+55739,NAXD,NAD(P)HX dehydratase,Metabolism > Metals and cofactors > NAD biosynthesis and metabolism
+84680,ACCS,1-aminocyclopropane-1-carboxylate synthase homolog (inactive),0
+51651,PTRH2,peptidyl-tRNA hydrolase 2,0
+9489,PGS1,phosphatidylglycerophosphate synthase 1,Metabolism > Lipid metabolism > Cardiolipin synthesis | Metabolism > Lipid metabolism > Phospholipid metabolism
+55074,OXR1,oxidation resistance 1,Metabolism > Detoxification > ROS and glutathione metabolism
+127018,LYPLAL1,lysophospholipase like 1,Metabolism > Lipid metabolism
+54943,DNAJC28,DnaJ heat shock protein family (Hsp40) member C28,0
+2356,FPGS,folylpolyglutamate synthase,Metabolism > Vitamin metabolism > Folate and 1-C metabolism
+374882,TMEM205,transmembrane protein 205,0
+401612,SLC25A53,solute carrier family 25 member 53,Small molecule transport > SLC25A family
+150209,AIFM3,apoptosis inducing factor mitochondria associated 3,Metabolism > Metals and cofactors > Fe-S-containing proteins | Mitochondrial dynamics and surveillance > Apoptosis
+4257,MGST1,microsomal glutathione S-transferase 1,Metabolism > Detoxification > Xenobiotic metabolism | Metabolism > Detoxification > ROS and glutathione metabolism
+51537,MTFP1,mitochondrial fission process 1,Mitochondrial dynamics and surveillance > Fission
+51287,COA4,cytochrome c oxidase assembly factor 4 homolog,OXPHOS > Complex IV > CIV assembly factors | OXPHOS > OXPHOS assembly factors
+60491,NIF3L1,NGG1 interacting factor 3 like 1,0
+126789,PUSL1,pseudouridine synthase like 1,Mitochondrial central dogma > Translation
+113675,SDSL,serine dehydratase like,Metabolism > Amino acid metabolism > Serine metabolism
+581,BAX,"BCL2 associated X, apoptosis regulator",Mitochondrial dynamics and surveillance > Apoptosis
+57506,MAVS,mitochondrial antiviral signaling protein,Signaling > Immune response
+64745,METTL17,methyltransferase like 17,Mitochondrial central dogma > mtRNA metabolism > mt-rRNA modifications | Mitochondrial central dogma > Translation > Mitochondrial ribosome assembly
+32,ACACB,acetyl-CoA carboxylase beta,Metabolism > Lipid metabolism > Fatty acid oxidation | Metabolism > Vitamin metabolism > Biotin utilizing proteins
+384,ARG2,arginase 2,Metabolism > Amino acid metabolism
+55149,MTPAP,mitochondrial poly(A) polymerase,Mitochondrial central dogma > mtRNA metabolism > mtRNA granules | Mitochondrial central dogma > mtRNA metabolism > mt-rRNA modifications | Mitochondrial central dogma > mtRNA metabolism > mt-mRNA modifications | Mitochondrial central dogma > mtRNA metabolism > mtRNA stability and decay
+79714,CCDC51,coiled-coil domain containing 51,Small molecule transport
+79783,SUGCT,succinyl-CoA:glutarate-CoA transferase,Metabolism > Amino acid metabolism
+10059,DNM1L,dynamin 1 like,Mitochondrial dynamics and surveillance > Fission
+4898,NRDC,nardilysin convertase,"Protein import, sorting and homeostasis > Protein homeostasis > Chaperones | Protein import, sorting and homeostasis > Protein import and sorting"
+55863,TMEM126B,transmembrane protein 126B,OXPHOS > Complex I > CI assembly factors | OXPHOS > OXPHOS assembly factors
+387338,NSUN4,NOP2/Sun RNA methyltransferase 4,Mitochondrial central dogma > mtRNA metabolism > mt-rRNA modifications | Mitochondrial central dogma > Translation > Mitochondrial ribosome assembly
+79611,ACSS3,acyl-CoA synthetase short chain family member 3,Metabolism > Lipid metabolism
+116151,FAM210B,family with sequence similarity 210 member B,Metabolism > Metals and cofactors > Iron homeostasis
+79863,RBFA,ribosome binding factor A,Mitochondrial central dogma > Translation > Mitochondrial ribosome assembly
+254042,METAP1D,"methionyl aminopeptidase type 1D, mitochondrial","Mitochondrial central dogma > Translation > fMet processing | Protein import, sorting and homeostasis > Protein homeostasis > Proteases"
+10768,AHCYL1,adenosylhomocysteinase like 1,Mitochondrial dynamics and surveillance > Organelle contact sites
+25934,NIPSNAP3A,nipsnap homolog 3A,0
+64757,MTARC1,mitochondrial amidoxime reducing component 1,Metabolism > Metals and cofactors > Molybdenum cofactor synthesis and proteins | Metabolism > Detoxification > Xenobiotic metabolism | Metabolism > Detoxification > Amidoxime reducing complex
+139341,FUNDC1,FUN14 domain containing 1,Mitochondrial dynamics and surveillance > Mitophagy | Mitochondrial dynamics and surveillance > Autophagy
+2180,ACSL1,acyl-CoA synthetase long chain family member 1,Metabolism > Lipid metabolism > Fatty acid oxidation
+116228,COX20,cytochrome c oxidase assembly factor COX20,OXPHOS > Complex IV > CIV assembly factors | OXPHOS > OXPHOS assembly factors
+83693,HSDL1,hydroxysteroid dehydrogenase like 1,0
+874,CBR3,carbonyl reductase 3,Metabolism > Detoxification > Xenobiotic metabolism
+130916,MTERF4,mitochondrial transcription termination factor 4,Mitochondrial central dogma > Translation > Mitochondrial ribosome assembly
+390916,NUDT19,nudix hydrolase 19,Metabolism > Metals and cofactors > Coenzyme A metabolism
+50865,HEBP1,heme binding protein 1,0
+114971,PTPMT1,protein tyrosine phosphatase mitochondrial 1,Metabolism > Lipid metabolism > Cardiolipin synthesis | Metabolism > Lipid metabolism > Phospholipid metabolism
+192111,PGAM5,"PGAM family member 5, mitochondrial serine/threonine protein phosphatase",Mitochondrial dynamics and surveillance > Mitophagy | Mitochondrial dynamics and surveillance > Autophagy
+1841,DTYMK,deoxythymidylate kinase,Metabolism > Nucleotide metabolism > Nucleotide synthesis and processing
+3735,KARS1,lysyl-tRNA synthetase 1,Mitochondrial central dogma > Translation > mt-tRNA synthetases
+6770,STAR,steroidogenic acute regulatory protein,"Metabolism > Lipid metabolism > Cholesterol, bile acid, steroid synthesis"
+131118,DNAJC19,DnaJ heat shock protein family (Hsp40) member C19,"Protein import, sorting and homeostasis > Protein import and sorting > Import motor"
+5009,OTC,ornithine carbamoyltransferase,Metabolism > Amino acid metabolism > Urea cycle
+9167,COX7A2L,cytochrome c oxidase subunit 7A2 like,OXPHOS > Complex IV > CIV subunits | OXPHOS > OXPHOS subunits | OXPHOS > OXPHOS assembly factors | OXPHOS > Respirasome assembly
+51001,MTERF3,mitochondrial transcription termination factor 3,Mitochondrial central dogma > Translation > Mitochondrial ribosome assembly
+118980,SFXN2,sideroflexin 2,Small molecule transport > Sideroflexins
+2194,FASN,fatty acid synthase,Metabolism > Lipid metabolism
+65018,PINK1,PTEN induced kinase 1,Mitochondrial dynamics and surveillance > Mitophagy | Mitochondrial dynamics and surveillance > Autophagy | Signaling
+80775,TMEM177,transmembrane protein 177,OXPHOS > Complex IV > CIV assembly factors | OXPHOS > OXPHOS assembly factors
+7296,TXNRD1,thioredoxin reductase 1,Metabolism > Detoxification > ROS and glutathione metabolism | Metabolism > Detoxification > Selenoproteins
+79896,THNSL1,threonine synthase like 1,0
+2224,FDPS,farnesyl diphosphate synthase,Metabolism > Lipid metabolism > Cholesterol-associated
+3422,IDI1,isopentenyl-diphosphate delta isomerase 1,Metabolism > Lipid metabolism > Cholesterol-associated
+7156,TOP3A,DNA topoisomerase III alpha,Mitochondrial central dogma > mtDNA maintenance > mtDNA replication
+94033,FTMT,ferritin mitochondrial,Metabolism > Metals and cofactors > Iron homeostasis
+92483,LDHAL6B,lactate dehydrogenase A like 6B,Metabolism > Carbohydrate metabolism
+9650,MTFR1,mitochondrial fission regulator 1,Mitochondrial dynamics and surveillance > Fission
+23786,BCL2L13,BCL2 like 13,Mitochondrial dynamics and surveillance > Mitophagy | Mitochondrial dynamics and surveillance > Autophagy | Mitochondrial dynamics and surveillance > Apoptosis
+54931,TRMT10C,"tRNA methyltransferase 10C, mitochondrial RNase P subunit",Mitochondrial central dogma > mtRNA metabolism > mtRNA granules | Mitochondrial central dogma > mtRNA metabolism > Polycistronic mtRNA processing | Mitochondrial central dogma > mtRNA metabolism > mt-tRNA modifications
+11332,ACOT7,acyl-CoA thioesterase 7,Metabolism > Lipid metabolism
+51106,TFB1M,"transcription factor B1, mitochondrial",Mitochondrial central dogma > mtRNA metabolism > mtRNA granules | Mitochondrial central dogma > mtRNA metabolism > mt-rRNA modifications | Mitochondrial central dogma > Translation > Mitochondrial ribosome assembly
+381,ARF5,ADP ribosylation factor 5,0
+55013,MCUB,mitochondrial calcium uniporter dominant negative subunit beta,Signaling > Calcium homeostasis > Calcium cycle | Small molecule transport > Calcium uniporter
+56652,TWNK,twinkle mtDNA helicase,Mitochondrial central dogma > mtDNA maintenance > mtDNA replication | Mitochondrial central dogma > mtDNA maintenance > mtDNA nucleoid
+27249,MMADHC,metabolism of cobalamin associated D,Metabolism > Vitamin metabolism > Vitamin B12 metabolism
+29920,PYCR2,pyrroline-5-carboxylate reductase 2,Metabolism > Amino acid metabolism > Proline metabolism
+100131187,TSTD1,thiosulfate sulfurtransferase like domain containing 1,Metabolism > Sulfur metabolism
+57149,LYRM1,LYR motif containing 1,0
+114876,OSBPL1A,oxysterol binding protein like 1A,"Metabolism > Lipid metabolism > Cholesterol, bile acid, steroid synthesis | Metabolism > Lipid metabolism > Phospholipid metabolism"
+9401,RECQL4,RecQ like helicase 4,Mitochondrial central dogma > mtDNA maintenance > mtDNA repair
+100131801,PET100,PET100 cytochrome c oxidase chaperone,OXPHOS > Complex IV > CIV assembly factors | OXPHOS > OXPHOS assembly factors
+54332,GDAP1,ganglioside induced differentiation associated protein 1,0
+219402,MTIF3,mitochondrial translational initiation factor 3,Mitochondrial central dogma > Translation > Translation factors
+7374,UNG,uracil DNA glycosylase,Mitochondrial central dogma > mtDNA maintenance > mtDNA repair
+10249,GLYAT,glycine-N-acyltransferase,Metabolism > Amino acid metabolism > Glycine metabolism | Metabolism > Detoxification > Xenobiotic metabolism
+79763,ISOC2,isochorismatase domain containing 2,0
+516,ATP5MC1,ATP synthase membrane subunit c locus 1,OXPHOS > Complex V > CV subunits | OXPHOS > OXPHOS subunits
+5860,QDPR,quinoid dihydropteridine reductase,Metabolism > Metals and cofactors > Tetrahydobiopterin synthesis | Metabolism > Vitamin metabolism > Folate and 1-C metabolism
+79934,COQ8B,coenzyme Q8B,Metabolism > Metals and cofactors > Coenzyme Q metabolism
+85865,GTPBP10,GTP binding protein 10,Mitochondrial central dogma > Translation > Mitochondrial ribosome assembly
+706,TSPO,translocator protein,"Metabolism > Lipid metabolism > Cholesterol, bile acid, steroid synthesis"
+2495,FTH1,ferritin heavy chain 1,Metabolism > Metals and cofactors > Iron homeostasis
+55621,TRMT1,tRNA methyltransferase 1,Mitochondrial central dogma > mtRNA metabolism > mt-tRNA modifications
+90956,ADCK2,aarF domain containing kinase 2,0
+100130890,TSTD3,thiosulfate sulfurtransferase like domain containing 3,0
+92259,MRPS36,mitochondrial ribosomal protein S36,Mitochondrial central dogma > Translation > Mitochondrial ribosome | Metabolism > Carbohydrate metabolism > TCA cycle
+57546,PDP2,pyruvate dehyrogenase phosphatase catalytic subunit 2,Metabolism > Carbohydrate metabolism > Pyruvate metabolism
+55326,AGPAT5,1-acylglycerol-3-phosphate O-acyltransferase 5,Metabolism > Lipid metabolism > Cardiolipin synthesis | Metabolism > Lipid metabolism > Phospholipid metabolism
+84331,MCRIP2,MAPK regulated corepressor interacting protein 2,Signaling
+7351,UCP2,uncoupling protein 2,Small molecule transport > SLC25A family
+51312,SLC25A37,solute carrier family 25 member 37,Metabolism > Metals and cofactors > Iron homeostasis | Small molecule transport > SLC25A family
+81894,SLC25A28,solute carrier family 25 member 28,Metabolism > Metals and cofactors > Iron homeostasis | Small molecule transport > SLC25A family
+153328,SLC25A48,solute carrier family 25 member 48,Small molecule transport > SLC25A family
+203427,SLC25A43,solute carrier family 25 member 43,Small molecule transport > SLC25A family
+283600,SLC25A47,solute carrier family 25 member 47,Small molecule transport > SLC25A family
+284427,SLC25A41,solute carrier family 25 member 41,Metabolism > Nucleotide metabolism > Nucleotide import | Small molecule transport > SLC25A family
+284723,SLC25A34,solute carrier family 25 member 34,Small molecule transport > SLC25A family
+2053,EPHX2,epoxide hydrolase 2,Metabolism > Detoxification > Xenobiotic metabolism | Metabolism > Lipid metabolism
+11164,NUDT5,nudix hydrolase 5,Metabolism > Nucleotide metabolism > Nucleotide synthesis and processing
+10367,MICU1,mitochondrial calcium uptake 1,Signaling > Calcium homeostasis > Calcium cycle | Signaling > Calcium homeostasis > EF hand proteins | Small molecule transport > Calcium uniporter
+6647,SOD1,superoxide dismutase 1,Metabolism > Detoxification > ROS and glutathione metabolism
+253190,SERHL2,serine hydrolase like 2,0
+25915,NDUFAF3,NADH:ubiquinone oxidoreductase complex assembly factor 3,OXPHOS > Complex I > CI assembly factors | OXPHOS > OXPHOS assembly factors
+388962,BOLA3,bolA family member 3,Metabolism > Metals and cofactors > Fe-S cluster biosynthesis | Metabolism > Metals and cofactors > Fe-S-containing proteins
+132299,OCIAD2,OCIA domain containing 2,Signaling
+55316,RSAD1,radical S-adenosyl methionine domain containing 1,Metabolism > Metals and cofactors > Fe-S-containing proteins
+84303,CHCHD6,coiled-coil-helix-coiled-coil-helix domain containing 6,Mitochondrial dynamics and surveillance > Cristae formation > MICOS complex
+22868,FASTKD2,FAST kinase domains 2,Mitochondrial central dogma > mtRNA metabolism > mtRNA granules | Mitochondrial central dogma > mtRNA metabolism > Polycistronic mtRNA processing | Mitochondrial central dogma > mtRNA metabolism > mtRNA stability and decay | Mitochondrial central dogma > Translation > Mitochondrial ribosome assembly
+8799,PEX11B,peroxisomal biogenesis factor 11 beta,0
+25880,TMEM186,transmembrane protein 186,OXPHOS > Complex I > CI assembly factors | OXPHOS > OXPHOS assembly factors
+80119,PIF1,PIF1 5'-to-3' DNA helicase,Mitochondrial central dogma > mtDNA maintenance
+2168,FABP1,fatty acid binding protein 1,Metabolism > Metals and cofactors > Heme synthesis and processing | Metabolism > Lipid metabolism
+215,ABCD1,ATP binding cassette subfamily D member 1,Small molecule transport > ABC transporters
+11212,PLPBP,pyridoxal phosphate binding protein,Metabolism > Vitamin metabolism > Vitamin B6 metabolism
+1622,DBI,"diazepam binding inhibitor, acyl-CoA binding protein",Metabolism > Lipid metabolism
+87178,PNPT1,polyribonucleotide nucleotidyltransferase 1,Mitochondrial central dogma > mtRNA metabolism > mtRNA stability and decay
+116447,TOP1MT,DNA topoisomerase I mitochondrial,Mitochondrial central dogma > mtDNA maintenance > mtDNA replication | Mitochondrial central dogma > mtRNA metabolism > Transcription
+246243,RNASEH1,ribonuclease H1,Mitochondrial central dogma > mtDNA maintenance > mtDNA replication | Mitochondrial central dogma > mtRNA metabolism > mtRNA stability and decay
+10350,ABCA9,ATP binding cassette subfamily A member 9,Small molecule transport > ABC transporters
+6342,SCP2,sterol carrier protein 2,"Metabolism > Lipid metabolism > Cholesterol, bile acid, steroid synthesis"
+51559,NT5DC3,5'-nucleotidase domain containing 3,0
+100272147,CMC4,C-X9-C motif containing 4,0
+3945,LDHB,lactate dehydrogenase B,Metabolism > Amino acid metabolism > Glyoxylate metabolism
+54059,YBEY,ybeY metalloendoribonuclease,Mitochondrial central dogma > mtRNA metabolism > Polycistronic mtRNA processing | Mitochondrial central dogma > Translation > Mitochondrial ribosome assembly
+3094,HINT1,histidine triad nucleotide binding protein 1,Metabolism > Nucleotide metabolism > Nucleotide synthesis and processing
+79594,MUL1,mitochondrial E3 ubiquitin protein ligase 1,"Protein import, sorting and homeostasis > Protein homeostasis | Mitochondrial dynamics and surveillance > Fission | Signaling"
+7084,TK2,thymidine kinase 2,Metabolism > Nucleotide metabolism > Nucleotide synthesis and processing
+79814,AGMAT,agmatinase,Metabolism > Amino acid metabolism
+129607,CMPK2,cytidine/uridine monophosphate kinase 2,Metabolism > Nucleotide metabolism > Nucleotide synthesis and processing
+637,BID,BH3 interacting domain death agonist,Mitochondrial dynamics and surveillance > Apoptosis
+402,ARL2,ADP ribosylation factor like GTPase 2,Mitochondrial dynamics and surveillance > Fusion
+55333,SYNJ2BP,synaptojanin 2 binding protein,Mitochondrial dynamics and surveillance > Organelle contact sites
+56947,MFF,mitochondrial fission factor,Mitochondrial dynamics and surveillance > Fission
+51181,DCXR,dicarbonyl and L-xylulose reductase,Metabolism > Carbohydrate metabolism
+53343,NUDT9,nudix hydrolase 9,Metabolism > Nucleotide metabolism > Nucleotide synthesis and processing
+23600,AMACR,alpha-methylacyl-CoA racemase,Metabolism > Lipid metabolism > Fatty acid oxidation
+55187,VPS13D,vacuolar protein sorting 13 homolog D,Mitochondrial dynamics and surveillance > Mitophagy | Mitochondrial dynamics and surveillance > Autophagy
+11162,NUDT6,nudix hydrolase 6,0
+55101,DMAC2,distal membrane arm assembly complex 2,OXPHOS > Complex I > CI assembly factors | OXPHOS > OXPHOS assembly factors
+29960,MRM2,mitochondrial rRNA methyltransferase 2,Mitochondrial central dogma > mtRNA metabolism > mtRNA granules | Mitochondrial central dogma > mtRNA metabolism > mt-rRNA modifications | Mitochondrial central dogma > Translation > Mitochondrial ribosome assembly
+578,BAK1,BCL2 antagonist/killer 1,Mitochondrial dynamics and surveillance > Apoptosis
+1723,DHODH,dihydroorotate dehydrogenase (quinone),"Metabolism > Nucleotide metabolism > Nucleotide synthesis and processing | Metabolism > Electron carriers > Q-linked reactions, other"
+4129,MAOB,monoamine oxidase B,Metabolism > Amino acid metabolism > Catechol metabolism | Metabolism > Detoxification > Xenobiotic metabolism
+4259,MGST3,microsomal glutathione S-transferase 3,Metabolism > Lipid metabolism > Eicosanoid metabolism
+51205,ACP6,"acid phosphatase 6, lysophosphatidic",Metabolism > Lipid metabolism > Phospholipid metabolism
+51642,MRPL48,mitochondrial ribosomal protein L48,Mitochondrial central dogma > Translation > Mitochondrial ribosome
+189,AGXT,alanine--glyoxylate and serine--pyruvate aminotransferase,Metabolism > Amino acid metabolism > Serine metabolism | Metabolism > Amino acid metabolism > Glyoxylate metabolism
+1727,CYB5R3,cytochrome b5 reductase 3,Metabolism > Detoxification > Xenobiotic metabolism | Metabolism > Detoxification > Amidoxime reducing complex | Metabolism > Lipid metabolism
+55794,DDX28,DEAD-box helicase 28,Mitochondrial central dogma > mtRNA metabolism > mtRNA granules | Mitochondrial central dogma > Translation > Mitochondrial ribosome assembly
+25953,PNKD,PNKD metallo-beta-lactamase domain containing,OXPHOS > Complex IV > CIV assembly factors | OXPHOS > OXPHOS assembly factors
+286097,MICU3,mitochondrial calcium uptake family member 3,Signaling > Calcium homeostasis > Calcium cycle | Signaling > Calcium homeostasis > EF hand proteins | Small molecule transport > Calcium uniporter
+664,BNIP3,BCL2 interacting protein 3,Mitochondrial dynamics and surveillance > Apoptosis
+345778,MTX3,metaxin 3,Mitochondrial dynamics and surveillance > Intramitochondrial membrane interactions
+4595,MUTYH,mutY DNA glycosylase,Mitochondrial central dogma > mtDNA maintenance
+8225,GTPBP6,GTP binding protein 6 (putative),0
+1583,CYP11A1,cytochrome P450 family 11 subfamily A member 1,"Metabolism > Lipid metabolism > Cholesterol, bile acid, steroid synthesis | Metabolism > Metals and cofactors > Heme-containing proteins"
+54940,OCIAD1,OCIA domain containing 1,0
+79828,METTL8,methyltransferase like 8,Mitochondrial central dogma > mtRNA metabolism
+389203,SMIM20,small integral membrane protein 20,OXPHOS > Complex IV > CIV assembly factors | OXPHOS > OXPHOS assembly factors
+84881,RPUSD4,RNA pseudouridine synthase D4,Mitochondrial central dogma > mtRNA metabolism > mtRNA granules | Mitochondrial central dogma > mtRNA metabolism > mt-tRNA modifications | Mitochondrial central dogma > mtRNA metabolism > mt-rRNA modifications
+57150,SMIM8,small integral membrane protein 8,0
+10201,NME6,NME/NM23 nucleoside diphosphate kinase 6,Metabolism > Nucleotide metabolism > Nucleotide synthesis and processing
+23770,FKBP8,FKBP prolyl isomerase 8,Mitochondrial dynamics and surveillance > Organelle contact sites | Mitochondrial dynamics and surveillance > Mitophagy | Mitochondrial dynamics and surveillance > Autophagy
+341392,ACSM4,acyl-CoA synthetase medium chain family member 4,Metabolism > Lipid metabolism > Fatty acid oxidation
+79671,NLRX1,NLR family member X1,Signaling > Immune response
+55572,FOXRED1,FAD dependent oxidoreductase domain containing 1,OXPHOS > Complex I > CI assembly factors | OXPHOS > OXPHOS assembly factors
+64216,TFB2M,"transcription factor B2, mitochondrial",Mitochondrial central dogma > mtDNA maintenance > mtDNA replication | Mitochondrial central dogma > mtRNA metabolism > Transcription
+152926,PPM1K,"protein phosphatase, Mg2+/Mn2+ dependent 1K",Metabolism > Amino acid metabolism > Branched-chain amino acid metabolism | Metabolism > Amino acid metabolism > Branched-chain amino acid dehydrogenase complex
+517,ATP5MC2,ATP synthase membrane subunit c locus 2,OXPHOS > Complex V > CV subunits | OXPHOS > OXPHOS subunits
+6901,TAZ,tafazzin,Metabolism > Lipid metabolism > Cardiolipin synthesis
+253827,MSRB3,methionine sulfoxide reductase B3,Metabolism > Detoxification > ROS and glutathione metabolism
+26027,ACOT11,acyl-CoA thioesterase 11,Metabolism > Lipid metabolism > Fatty acid oxidation
+55335,NIPSNAP3B,nipsnap homolog 3B,0
+4913,NTHL1,nth like DNA glycosylase 1,Metabolism > Metals and cofactors > Fe-S-containing proteins
+54708,MARCHF5,membrane associated ring-CH-type finger 5,Mitochondrial dynamics and surveillance > Mitophagy | Mitochondrial dynamics and surveillance > Autophagy
+119559,SFXN4,sideroflexin 4,Small molecule transport > Sideroflexins
+57570,TRMT5,tRNA methyltransferase 5,Mitochondrial central dogma > mtRNA metabolism > mt-tRNA modifications
+293,SLC25A6,solute carrier family 25 member 6,Metabolism > Nucleotide metabolism > Nucleotide import | Signaling > Calcium homeostasis > Mitochondrial permeability transition pore | Small molecule transport > SLC25A family
+147407,SLC25A52,solute carrier family 25 member 52,Metabolism > Metals and cofactors > NAD biosynthesis and metabolism | Small molecule transport > SLC25A family
+4968,OGG1,8-oxoguanine DNA glycosylase,Mitochondrial central dogma > mtDNA maintenance > mtDNA repair
+730249,ACOD1,aconitate decarboxylase 1,Metabolism > Carbohydrate metabolism > Itaconate metabolism | Signaling > Immune response
+81890,QTRT1,queuine tRNA-ribosyltransferase catalytic subunit 1,Mitochondrial central dogma > mtRNA metabolism > mt-tRNA modifications
+84883,AIFM2,apoptosis inducing factor mitochondria associated 2,Metabolism > Detoxification > ROS and glutathione metabolism | Mitochondrial dynamics and surveillance > Apoptosis
+7001,PRDX2,peroxiredoxin 2,Metabolism > Detoxification > ROS and glutathione metabolism
+26235,FBXL4,F-box and leucine rich repeat protein 4,0
+57678,GPAM,"glycerol-3-phosphate acyltransferase, mitochondrial",Metabolism > Lipid metabolism > Cardiolipin synthesis | Metabolism > Lipid metabolism > Phospholipid metabolism
+27109,DMAC2L,distal membrane arm assembly complex 2 like,OXPHOS > Complex V > CV subunits | OXPHOS > OXPHOS subunits
+55177,RMDN3,regulator of microtubule dynamics 3,Mitochondrial dynamics and surveillance > Organelle contact sites
+84293,PRXL2A,peroxiredoxin like 2A,Metabolism > Detoxification > ROS and glutathione metabolism
+84833,ATP5MD,ATP synthase membrane subunit DAPIT,OXPHOS > Complex V > CV subunits | OXPHOS > OXPHOS subunits | Mitochondrial dynamics and surveillance > Cristae formation
+100303755,PET117,PET117 cytochrome c oxidase chaperone,OXPHOS > Complex IV > CIV assembly factors | OXPHOS > OXPHOS assembly factors
+4128,MAOA,monoamine oxidase A,Metabolism > Amino acid metabolism > Catechol metabolism | Metabolism > Detoxification > Xenobiotic metabolism
+145853,C15orf61,chromosome 15 open reading frame 61,0
+10721,POLQ,DNA polymerase theta,Mitochondrial central dogma > mtDNA maintenance
+83875,BCO2,beta-carotene oxygenase 2,Metabolism > Vitamin metabolism > Vitamin A metabolism
+3429,IFI27,interferon alpha inducible protein 27,Signaling > Immune response | Mitochondrial dynamics and surveillance > Apoptosis
+1429,CRYZ,crystallin zeta,0
+5831,PYCR1,pyrroline-5-carboxylate reductase 1,Metabolism > Amino acid metabolism > Proline metabolism
+55217,TMLHE,"trimethyllysine hydroxylase, epsilon",Metabolism > Metals and cofactors > Carnitine synthesis and transport
+9804,TOMM20,translocase of outer mitochondrial membrane 20,"Protein import, sorting and homeostasis > Protein import and sorting > TOM | Mitochondrial dynamics and surveillance"
+79693,YRDC,yrdC N6-threonylcarbamoyltransferase domain containing,Mitochondrial central dogma > mtRNA metabolism > mt-tRNA modifications
+65260,COA7,cytochrome c oxidase assembly factor 7 (putative),OXPHOS > Complex IV > CIV assembly factors | OXPHOS > OXPHOS assembly factors
+10202,DHRS2,dehydrogenase/reductase 2,Metabolism > Detoxification > Xenobiotic metabolism
+166785,MMAA,metabolism of cobalamin associated A,Metabolism > Vitamin metabolism > Vitamin B12 metabolism
+54471,MIEF1,mitochondrial elongation factor 1,Mitochondrial central dogma > Translation > Mitochondrial ribosome assembly | Mitochondrial dynamics and surveillance > Fission
+84419,C15orf48,chromosome 15 open reading frame 48,0
+3980,LIG3,DNA ligase 3,Mitochondrial central dogma > mtDNA maintenance > mtDNA replication | Mitochondrial central dogma > mtDNA maintenance > mtDNA repair
+665,BNIP3L,BCL2 interacting protein 3 like,Mitochondrial dynamics and surveillance > Apoptosis
+60493,FASTKD5,FAST kinase domains 5,Mitochondrial central dogma > mtRNA metabolism > mtRNA granules | Mitochondrial central dogma > mtRNA metabolism > Polycistronic mtRNA processing | Mitochondrial central dogma > mtRNA metabolism > mtRNA stability and decay
+11315,PARK7,Parkinsonism associated deglycase,"Protein import, sorting and homeostasis > Protein homeostasis | Mitochondrial dynamics and surveillance > Mitophagy | Mitochondrial dynamics and surveillance > Autophagy"
+55744,COA1,cytochrome c oxidase assembly factor 1 homolog,OXPHOS > Complex I > CI assembly factors | OXPHOS > Complex IV > CIV assembly factors | OXPHOS > OXPHOS assembly factors
+170712,COX7B2,cytochrome c oxidase subunit 7B2,OXPHOS > Complex IV > CIV subunits | OXPHOS > OXPHOS subunits
+23409,SIRT4,sirtuin 4,Metabolism > Metals and cofactors > NAD biosynthesis and metabolism
+84300,UQCC2,ubiquinol-cytochrome c reductase complex assembly factor 2,OXPHOS > Complex III > CIII assembly factors | OXPHOS > OXPHOS assembly factors
+84749,USP30,ubiquitin specific peptidase 30,"Protein import, sorting and homeostasis > Protein homeostasis > Proteases | Mitochondrial dynamics and surveillance > Mitophagy | Mitochondrial dynamics and surveillance > Autophagy"
+201626,PDE12,phosphodiesterase 12,Mitochondrial central dogma > mtRNA metabolism > mt-mRNA modifications | Mitochondrial central dogma > mtRNA metabolism > mtRNA stability and decay
+4832,NME3,NME/NM23 nucleoside diphosphate kinase 3,Metabolism > Nucleotide metabolism > Nucleotide synthesis and processing
+22907,DHX30,DExH-box helicase 30,Mitochondrial central dogma > mtRNA metabolism > mtRNA granules | Mitochondrial central dogma > Translation > Mitochondrial ribosome assembly
+10922,FASTK,Fas activated serine/threonine kinase,Mitochondrial central dogma > mtRNA metabolism > mtRNA granules | Mitochondrial central dogma > mtRNA metabolism > Polycistronic mtRNA processing | Mitochondrial central dogma > mtRNA metabolism > mtRNA stability and decay
+196074,METTL15,methyltransferase like 15,Mitochondrial central dogma > mtRNA metabolism > mt-rRNA modifications
+1591,CYP24A1,cytochrome P450 family 24 subfamily A member 1,Metabolism > Metals and cofactors > Heme-containing proteins | Metabolism > Vitamin metabolism > Vitamin D metabolism
+25819,NOCT,nocturnin,Metabolism > Metals and cofactors > NAD biosynthesis and metabolism
+80025,PANK2,pantothenate kinase 2,Metabolism > Metals and cofactors > Coenzyme A metabolism
+763,CA5A,carbonic anhydrase 5A,Metabolism > Amino acid metabolism > Urea cycle
+64943,NT5DC2,5'-nucleotidase domain containing 2,Metabolism > Nucleotide metabolism > Nucleotide synthesis and processing
+83858,ATAD3B,ATPase family AAA domain containing 3B,Mitochondrial central dogma > mtDNA maintenance > mtDNA nucleoid | Mitochondrial dynamics and surveillance > Organelle contact sites | Mitochondrial dynamics and surveillance > Intramitochondrial membrane interactions
+26995,TRUB2,TruB pseudouridine synthase family member 2,Mitochondrial central dogma > mtRNA metabolism > mtRNA granules | Mitochondrial central dogma > mtRNA metabolism > mt-rRNA modifications
+5566,PRKACA,protein kinase cAMP-activated catalytic subunit alpha,Signaling > cAMP-PKA signaling
+118881,COMTD1,catechol-O-methyltransferase domain containing 1,0
+126129,CPT1C,carnitine palmitoyltransferase 1C,Metabolism > Lipid metabolism > Fatty acid oxidation | Metabolism > Metals and cofactors > Carnitine synthesis and transport | Metabolism > Metals and cofactors > Carnitine shuttle
+285315,C3orf33,chromosome 3 open reading frame 33,0
+84895,MIGA2,mitoguardin 2,Mitochondrial dynamics and surveillance > Fusion | Mitochondrial dynamics and surveillance > Organelle contact sites
+27044,SND1,staphylococcal nuclease and tudor domain containing 1,0
+2747,GLUD2,glutamate dehydrogenase 2,Metabolism > Amino acid metabolism > Glutamate metabolism | Metabolism > Amino acid metabolism > GABA metabolism
+84842,HPDL,4-hydroxyphenylpyruvate dioxygenase like,0
+90806,ANGEL2,angel homolog 2,Mitochondrial central dogma > mtRNA metabolism > mt-mRNA modifications
+65990,ANTKMT,adenine nucleotide translocase lysine methyltransferase,Metabolism > Nucleotide metabolism
+790955,UQCC3,ubiquinol-cytochrome c reductase complex assembly factor 3,OXPHOS > Complex III > CIII assembly factors | OXPHOS > OXPHOS assembly factors
+10549,PRDX4,peroxiredoxin 4,Metabolism > Detoxification > ROS and glutathione metabolism
+51654,CDK5RAP1,CDK5 regulatory subunit associated protein 1,Mitochondrial central dogma > mtRNA metabolism > mt-tRNA modifications
+10606,PAICS,phosphoribosylaminoimidazole carboxylase and phosphoribosylaminoimidazolesuccinocarboxamide synthase,Metabolism > Nucleotide metabolism > Nucleotide synthesis and processing
+84709,MGARP,mitochondria localized glutamic acid rich protein,Mitochondrial dynamics and surveillance > Trafficking
+81932,HDHD3,haloacid dehalogenase like hydrolase domain containing 3,0
+1585,CYP11B2,cytochrome P450 family 11 subfamily B member 2,"Metabolism > Lipid metabolism > Cholesterol, bile acid, steroid synthesis | Metabolism > Metals and cofactors > Heme-containing proteins"
+56895,AGPAT4,1-acylglycerol-3-phosphate O-acyltransferase 4,Metabolism > Lipid metabolism > Cardiolipin synthesis | Metabolism > Lipid metabolism > Phospholipid metabolism
+81554,RCC1L,RCC1 like,Mitochondrial central dogma > mtRNA metabolism > mt-rRNA modifications
+222234,FAM185A,family with sequence similarity 185 member A,0
+5366,PMAIP1,phorbol-12-myristate-13-acetate-induced protein 1,Mitochondrial dynamics and surveillance > Apoptosis
+11022,TDRKH,tudor and KH domain containing,0
+80024,SLC8B1,solute carrier family 8 member B1,Signaling > Calcium homeostasis > Calcium cycle | Small molecule transport
+1594,CYP27B1,cytochrome P450 family 27 subfamily B member 1,Metabolism > Metals and cofactors > Heme-containing proteins | Metabolism > Vitamin metabolism > Vitamin D metabolism
+11232,POLG2,"DNA polymerase gamma 2, accessory subunit",Mitochondrial central dogma > mtDNA maintenance > mtDNA replication | Mitochondrial central dogma > mtDNA maintenance > mtDNA nucleoid
+284486,THEM5,thioesterase superfamily member 5,Metabolism > Lipid metabolism
+638,BIK,BCL2 interacting killer,Mitochondrial dynamics and surveillance > Apoptosis
+7978,MTERF1,mitochondrial transcription termination factor 1,Mitochondrial central dogma > mtDNA maintenance > mtDNA nucleoid | Mitochondrial central dogma > mtRNA metabolism > Transcription
+113115,MTFR2,mitochondrial fission regulator 2,Mitochondrial dynamics and surveillance > Fission
+2879,GPX4,glutathione peroxidase 4,Metabolism > Detoxification > ROS and glutathione metabolism | Metabolism > Detoxification > Selenoproteins
+387990,TOMM20L,translocase of outer mitochondrial membrane 20 like,"Protein import, sorting and homeostasis > Protein import and sorting"
+1312,COMT,catechol-O-methyltransferase,Metabolism > Amino acid metabolism > Catechol metabolism
+60314,MYG1,MYG1 exonuclease,Mitochondrial central dogma > mtRNA metabolism > mt-rRNA modifications | Mitochondrial central dogma > mtRNA metabolism > mt-mRNA modifications
+64847,SPATA20,spermatogenesis associated 20,0
+64064,OXCT2,3-oxoacid CoA-transferase 2,Metabolism > Carbohydrate metabolism > Ketone metabolism
+133957,CCDC127,coiled-coil domain containing 127,0
+1407,CRY1,cryptochrome circadian regulator 1,0
+348158,ACSM2B,acyl-CoA synthetase medium chain family member 2B,Metabolism > Lipid metabolism > Fatty acid oxidation
+80179,MYO19,myosin XIX,Mitochondrial dynamics and surveillance > Trafficking
+92667,MGME1,mitochondrial genome maintenance exonuclease 1,Mitochondrial central dogma > mtDNA maintenance > mtDNA replication | Mitochondrial central dogma > mtDNA maintenance > mtDNA stability and decay
+5414,SEPTIN4,septin 4,Mitochondrial dynamics and surveillance > Apoptosis
+80303,EFHD1,EF-hand domain family member D1,Signaling > Calcium homeostasis > EF hand proteins
+55969,RAB5IF,RAB5 interacting factor,OXPHOS > OXPHOS assembly factors | OXPHOS > Respirasome assembly
+328,APEX1,apurinic/apyrimidinic endodeoxyribonuclease 1,Mitochondrial central dogma > mtDNA maintenance > mtDNA repair
+9517,SPTLC2,serine palmitoyltransferase long chain base subunit 2,Metabolism > Lipid metabolism > Phospholipid metabolism
+90871,DMAC1,distal membrane arm assembly complex 1,OXPHOS > Complex I > CI assembly factors | OXPHOS > OXPHOS assembly factors
+134145,ATPSCKMT,ATP synthase c subunit lysine N-methyltransferase,OXPHOS > Complex V > CV assembly factors | OXPHOS > OXPHOS assembly factors
+129807,NEU4,neuraminidase 4,Metabolism > Carbohydrate metabolism
+842,CASP9,caspase 9,"Protein import, sorting and homeostasis > Protein homeostasis > Proteases | Mitochondrial dynamics and surveillance > Apoptosis"
+55750,AGK,acylglycerol kinase,"Protein import, sorting and homeostasis > Protein import and sorting > TIM22 carrier pathway | Metabolism > Lipid metabolism > Phospholipid metabolism"
+4170,MCL1,"MCL1 apoptosis regulator, BCL2 family member",Mitochondrial dynamics and surveillance > Apoptosis
+54920,DUS2,dihydrouridine synthase 2,Mitochondrial central dogma > mtRNA metabolism > mt-tRNA modifications
+201164,PLD6,phospholipase D family member 6,Metabolism > Lipid metabolism > Cardiolipin synthesis | Mitochondrial dynamics and surveillance > Fusion
+10953,TOMM34,translocase of outer mitochondrial membrane 34,"Protein import, sorting and homeostasis > Protein import and sorting > TOM"
+9692,PRORP,protein only RNase P catalytic subunit,Mitochondrial central dogma > mtRNA metabolism > mtRNA granules | Mitochondrial central dogma > mtRNA metabolism > Polycistronic mtRNA processing
+57048,PLSCR3,phospholipid scramblase 3,Metabolism > Lipid metabolism > Cardiolipin synthesis
+1159,CKMT1B,"creatine kinase, mitochondrial 1B",Metabolism > Nucleotide metabolism > Creatine metabolism
+4707,NDUFB1,NADH:ubiquinone oxidoreductase subunit B1,OXPHOS > Complex I > CI subunits | OXPHOS > OXPHOS subunits
+100526740,ATP5MF-PTCD1,ATP5MF-PTCD1 readthrough,0
+841,CASP8,caspase 8,"Protein import, sorting and homeostasis > Protein homeostasis | Mitochondrial dynamics and surveillance > Apoptosis"
+598,BCL2L1,BCL2 like 1,Mitochondrial dynamics and surveillance > Apoptosis
+55218,EXD2,exonuclease 3'-5' domain containing 2,Mitochondrial central dogma > Translation
+83787,ARMC10,armadillo repeat containing 10,Mitochondrial dynamics and surveillance > Fission | Mitochondrial dynamics and surveillance > Trafficking
+125170,MIEF2,mitochondrial elongation factor 2,Mitochondrial dynamics and surveillance > Fission
+54974,THG1L,tRNA-histidine guanylyltransferase 1 like,Mitochondrial central dogma > mtRNA metabolism > mt-tRNA modifications
+64083,GOLPH3,golgi phosphoprotein 3,0
+9581,PREPL,prolyl endopeptidase like,0
+79072,FASTKD3,FAST kinase domains 3,Mitochondrial central dogma > mtRNA metabolism > Polycistronic mtRNA processing | Mitochondrial central dogma > mtRNA metabolism > mtRNA stability and decay
+84902,CEP89,centrosomal protein 89,OXPHOS > Complex IV > CIV assembly factors | OXPHOS > OXPHOS assembly factors
+150763,GPAT2,"glycerol-3-phosphate acyltransferase 2, mitochondrial",Metabolism > Lipid metabolism > Cardiolipin synthesis | Metabolism > Lipid metabolism > Phospholipid metabolism
+4077,NBR1,NBR1 autophagy cargo receptor,Mitochondrial dynamics and surveillance > Autophagy
+666,BOK,BCL2 family apoptosis regulator BOK,Mitochondrial dynamics and surveillance > Apoptosis
+60681,FKBP10,FKBP prolyl isomerase 10,"Protein import, sorting and homeostasis > Protein homeostasis > Chaperones"
+133383,SETD9,SET domain containing 9,0
+1584,CYP11B1,cytochrome P450 family 11 subfamily B member 1,"Metabolism > Lipid metabolism > Cholesterol, bile acid, steroid synthesis | Metabolism > Metals and cofactors > Heme-containing proteins"
+751071,CSKMT,citrate synthase lysine methyltransferase,Signaling
+374986,MIGA1,mitoguardin 1,Mitochondrial dynamics and surveillance > Fusion
+22934,RPIA,ribose 5-phosphate isomerase A,Metabolism > Carbohydrate metabolism
+27113,BBC3,BCL2 binding component 3,Mitochondrial dynamics and surveillance > Apoptosis
+572,BAD,BCL2 associated agonist of cell death,Mitochondrial dynamics and surveillance > Apoptosis
+596,BCL2,BCL2 apoptosis regulator,Mitochondrial dynamics and surveillance > Apoptosis
+597,BCL2A1,BCL2 related protein A1,Mitochondrial dynamics and surveillance > Apoptosis
+599,BCL2L2,BCL2 like 2,Mitochondrial dynamics and surveillance > Apoptosis
+836,CASP3,caspase 3,"Protein import, sorting and homeostasis > Protein homeostasis > Proteases | Mitochondrial dynamics and surveillance > Apoptosis"
+1760,DMPK,DM1 protein kinase,0
+1763,DNA2,DNA replication helicase/nuclease 2,Mitochondrial central dogma > mtDNA maintenance > mtDNA replication | Metabolism > Metals and cofactors > Fe-S-containing proteins
+5071,PRKN,parkin RBR E3 ubiquitin protein ligase,Mitochondrial dynamics and surveillance > Mitophagy | Mitochondrial dynamics and surveillance > Autophagy
+8846,ALKBH1,"alkB homolog 1, histone H2A dioxygenase",Mitochondrial central dogma > mtRNA metabolism > mtRNA granules | Mitochondrial central dogma > mtRNA metabolism > mt-tRNA modifications
+9463,PICK1,protein interacting with PRKCA 1,0
+10017,BCL2L10,BCL2 like 10,Mitochondrial dynamics and surveillance > Apoptosis
+11216,AKAP10,A-kinase anchoring protein 10,Signaling > cAMP-PKA signaling
+51657,STYXL1,serine/threonine/tyrosine interacting like 1,Mitochondrial dynamics and surveillance > Apoptosis
+54888,NSUN2,NOP2/Sun RNA methyltransferase 2,Mitochondrial central dogma > mtRNA metabolism > mt-tRNA modifications
+55811,ADCY10,adenylate cyclase 10,Signaling > cAMP-PKA signaling
+56848,SPHK2,sphingosine kinase 2,Metabolism > Lipid metabolism > Phospholipid metabolism | Mitochondrial dynamics and surveillance > Apoptosis
+63899,NSUN3,NOP2/Sun RNA methyltransferase 3,Mitochondrial central dogma > mtRNA metabolism > mt-tRNA modifications
+140886,PABPC5,poly(A) binding protein cytoplasmic 5,0
+167681,PRSS35,serine protease 35,"Protein import, sorting and homeostasis > Protein homeostasis"
+201973,PRIMPOL,primase and DNA directed polymerase,Mitochondrial central dogma > mtDNA maintenance > mtDNA repair
+84947,SERAC1,serine active site containing 1,Metabolism > Lipid metabolism > Phospholipid metabolism
+55014,STX17,syntaxin 17,Mitochondrial dynamics and surveillance > Fission | Mitochondrial dynamics and surveillance > Organelle contact sites | Mitochondrial dynamics and surveillance > Autophagy
+55006,TRMT61B,tRNA methyltransferase 61B,Mitochondrial central dogma > mtRNA metabolism > mt-tRNA modifications | Mitochondrial central dogma > mtRNA metabolism > mt-rRNA modifications | Mitochondrial central dogma > Translation > Mitochondrial ribosome assembly
+5138,PDE2A,phosphodiesterase 2A,Signaling > cAMP-PKA signaling
+55848,PLGRKT,plasminogen receptor with a C-terminal lysine,0
+254013,ETFBKMT,electron transfer flavoprotein subunit beta lysine methyltransferase,"Metabolism > Electron carriers > Q-linked reactions, other"
+79680,RTL10,retrotransposon Gag like 10,Mitochondrial dynamics and surveillance > Apoptosis
+10018,BCL2L11,BCL2 like 11,Mitochondrial dynamics and surveillance > Apoptosis
+56907,SPIRE1,spire type actin nucleation factor 1,Mitochondrial dynamics and surveillance > Fission | Mitochondrial dynamics and surveillance > Organelle contact sites
+205327,C2orf69,chromosome 2 open reading frame 69,0
+9823,ARMCX2,armadillo repeat containing X-linked 2,0
+51309,ARMCX1,armadillo repeat containing X-linked 1,Mitochondrial dynamics and surveillance > Trafficking
+5423,POLB,DNA polymerase beta,Mitochondrial central dogma > mtDNA maintenance > mtDNA repair
+9342,SNAP29,synaptosome associated protein 29,Mitochondrial dynamics and surveillance > Autophagy
+51566,ARMCX3,armadillo repeat containing X-linked 3,Mitochondrial dynamics and surveillance > Trafficking
+54470,ARMCX6,armadillo repeat containing X-linked 6,0
+64863,METTL4,methyltransferase like 4,Mitochondrial central dogma > mtDNA maintenance > mtDNA modifications
+80309,SPHKAP,"SPHK1 interactor, AKAP domain containing",Signaling > cAMP-PKA signaling
+339983,NAT8L,N-acetyltransferase 8 like,Metabolism > Amino acid metabolism > Glutamate metabolism
+401250,MCCD1,mitochondrial coiled-coil domain 1,0
+101928527,PIGBOS1,PIGB opposite strand 1,Mitochondrial dynamics and surveillance > Organelle contact sites
+109703458,HTD2,hydroxyacyl-thioester dehydratase type 2,Metabolism > Lipid metabolism > Type II fatty acid synthesis
