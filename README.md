@@ -51,9 +51,15 @@ After performing the requested analyses, the following conclusions can be drawn:
 
 1. Principal components analysis revealed that the first principal component separates samples by oxygen status, indicating that hypoxia has a significant effect on the transcriptome of K562 cells.
 
-2. A substantial number of differentially expressed genes under hypoxia were found to be HIF-1α targets, suggesting that HIF-1α plays a crucial role in the cellular response to low oxygen conditions.
+   <img width="542" alt="image" src="https://github.com/Shloka12/k562-hypoxia-rnaseq-analysis/assets/67782856/c41d39fd-f646-4808-afa9-b2d5f4f1d658">
 
-3. Mitochondrial genes were generally up-regulated in hypoxia.
+
+2. A substantial number of differentially expressed genes on day 6 under hypoxia were found to be HIF-1α targets, suggesting that HIF-1α plays a crucial role in the cellular response to low oxygen conditions.
+
+   <img width="439" alt="image" src="https://github.com/Shloka12/k562-hypoxia-rnaseq-analysis/assets/67782856/27bd8d3f-e441-42b7-a579-acf97ec9785f">
+
+
+3. Mitochondrial genes on day 6 were generally up-regulated in hypoxia.
 
    <img width="472" alt="image" src="https://github.com/Shloka12/k562-hypoxia-rnaseq-analysis/assets/67782856/7c449fd2-eed1-4a89-9b51-96c1a6fb47db">
 
