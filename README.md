@@ -56,7 +56,9 @@ After performing the requested analyses, the following conclusions can be drawn:
 3. Mitochondrial genes were generally up-regulated in hypoxia.
 
 4. The heatmap analysis revealed dynamic changes in gene expression over time, with some genes showing rapid responses to hypoxia and others exhibiting delayed or sustained changes.
-   <img width="518" alt="image" src="https://github.com/Shloka12/k562-hypoxia-rnaseq-analysis/assets/67782856/7f5b052e-bc63-4363-a27c-c513918f0eed">
+
+
+<img width="518" alt="image" src="https://github.com/Shloka12/k562-hypoxia-rnaseq-analysis/assets/67782856/505388e4-6a48-4746-b6ce-f5a52dd81dfa">
 
 
 These findings provide valuable insights into the transcriptomic response of K562 cells to hypoxia and highlight potential avenues for further investigation, such as studying the functional consequences of the observed gene expression changes and exploring the therapeutic potential of hypoxia in the context of mitochondrial diseases.
