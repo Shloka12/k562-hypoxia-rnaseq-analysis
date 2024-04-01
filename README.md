@@ -55,6 +55,9 @@ After performing the requested analyses, the following conclusions can be drawn:
 
 3. Mitochondrial genes were generally up-regulated in hypoxia.
 
+   <img width="472" alt="image" src="https://github.com/Shloka12/k562-hypoxia-rnaseq-analysis/assets/67782856/7c449fd2-eed1-4a89-9b51-96c1a6fb47db">
+
+
 4. The heatmap analysis revealed dynamic changes in gene expression over time, with some genes showing rapid responses to hypoxia and others exhibiting delayed or sustained changes.
 
 
